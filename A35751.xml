@@ -1,0 +1,2325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The use of the geometrical playing-cards, as also a discourse of the mechanick powers by Monsi. Des-Cartes ; translated from his own manuscript copy ; shewing what great things may be performed by mechanick engines in removing and raising bodies of vast weights with little strength or force.</title>
+            <title>Traité de la mécanique. English</title>
+            <author>Descartes, René, 1596-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 112 KB of XML-encoded text transcribed from 71 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35751</idno>
+            <idno type="STC">Wing D1137</idno>
+            <idno type="STC">ESTC R17477</idno>
+            <idno type="EEBO-CITATION">12012151</idno>
+            <idno type="OCLC">ocm 12012151</idno>
+            <idno type="VID">52434</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52434)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 64:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The use of the geometrical playing-cards, as also a discourse of the mechanick powers by Monsi. Des-Cartes ; translated from his own manuscript copy ; shewing what great things may be performed by mechanick engines in removing and raising bodies of vast weights with little strength or force.</title>
+                  <title>Traité de la mécanique. English</title>
+                  <author>Descartes, René, 1596-1650.</author>
+               </titleStmt>
+               <extent>[2], 85 p. and 52 cards : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by J. Moxon ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Traité de la mécanique.</note>
+                  <note>After p. 85 there are fifty-two playing cards, illustrated with geometric designs.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+                  <note>Imperfect: t.p. and p. 85 badly mutilated and mounted.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mechanics --  Early works to 1800.</term>
+               <term>Geometry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52434:1" rendition="simple:additions"/>
+            <p>THE USE Of the GEOMETRICAL <hi>Playing-Cards,</hi> As alſo a Diſcourſe of the Mechanick Powers. By Monſi. <hi>Des-Cartes.</hi> Tranſlated from his own Manuſcript Copy. SHEWING What Great Things may be performed by MECHANICK ENGINES in re<g ref="char:EOLhyphen"/>moving and raiſing Bodies of vaſt Weights with little Strength or Force.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>J. Moxon</hi> at the <hi>Atlas</hi> in <hi>Warwick-Lane,</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="playing_cards_described">
+            <pb facs="tcp:52434:2"/>
+            <div type="treatise">
+               <div n="A◆" type="card">
+                  <head>
+                     <ref target="#A35751-ADIAMONDS">
+                        <hi>See the</hi> Ace <hi>of</hi> Diamonds.</ref>
+                  </head>
+                  <div type="definition">
+                     <pb n="1" facs="tcp:52434:2"/>
+                     <head>The Definition of a POINT.</head>
+                     <p>THE Point, is that which hath not any Part.</p>
+                     <p>By this Definition, it is eaſie to con<g ref="char:EOLhyphen"/>ceive, that the Point hath neither length, nor breadth, nor depth, and that alſo it is not ſen<g ref="char:EOLhyphen"/>ſible, but only Intellectual; ſeeing that there is no<g ref="char:EOLhyphen"/>thing which falleth under ſenſe, which hath not a quantity, and that there is no quantity without Parts, which would altogether contradict this De<g ref="char:EOLhyphen"/>finition. Nevertheleſs, as none can make any O<g ref="char:EOLhyphen"/>peration, but by the Interpoſition of Corporal things, they repreſent therefore the Mathematical Point, by the Point Phyſical, which is the Object of the ſight, the ſmalleſt and leaſt ſenſible, which hath no Geometrical greatneſs, diviſible to our ſenſe, and is made with the Point of a Needle, or with the end of the Point of the Compaſs of a Pen, or Penſil, as the Point noted by <hi>A.</hi>
+                     </p>
+                     <p>The Point Central, or Center, is a Point by which a Circle is drawn, or a Circumference, or rather it is the midſt of a Figure, as <hi>C.</hi>
+                     </p>
+                     <p>The Point Secant, is a Point where the Lines do interdivide themſelves, and which is ordina<g ref="char:EOLhyphen"/>rily called a Section, as <hi>C D.</hi>
+                     </p>
+                  </div>
+                  <div type="definition">
+                     <pb n="2" facs="tcp:52434:3"/>
+                     <head>The Definition of a LINE.</head>
+                     <p>THe <hi>Line,</hi> is a Length without Breadth:</p>
+                     <p>The <hi>Line</hi> is no other thing, then the paſ<g ref="char:EOLhyphen"/>ſing of the Point from one place to ano<g ref="char:EOLhyphen"/>ther, and it would be unperceivable, if one ſhould not ſet it forth by a Point Phyſical, the which by its flowing, doth repreſent to us, as <hi>A B, C D, E F.</hi>
+                     </p>
+                     <p>There are many ſorts of <hi>Lines,</hi> as the Point, which is the Original thereof, is able to receive different Motions; nevertheleſs, they take into conſideration only two Single and Principal ones; the Straight, and the Crooked; and a third alſo, which they call the Mixt, becauſe that it is compoſed of the two firſt.</p>
+                     <p>The right, or ſtraight <hi>Line</hi> is, that which is e<g ref="char:EOLhyphen"/>qually comprized within its extremities.</p>
+                     <p>Otherwiſe, it is that which floweth from one Point to another, without any turnings aſide, as <hi>A B.</hi>
+                     </p>
+                     <p>The Crooked <hi>Line,</hi> is that which turneth, or wandreth from its Extremities, by one, or more Turnings aſide, as <hi>C D.</hi>
+                     </p>
+                     <p>When as this <hi>Line</hi> is deſcribed with a Com<g ref="char:EOLhyphen"/>paſs, they call it Circular, as <hi>E.</hi>
+                     </p>
+                     <p>The Mixt <hi>Line,</hi> is that which is Straight and Crooked, as the <hi>Line</hi> V.</p>
+                     <div type="part">
+                        <pb n="3" facs="tcp:52434:3"/>
+                        <head>The LINE is diſtinguiſhed into Finite and In<g ref="char:EOLhyphen"/>finite, into Apparent and Occult, or Hidden.</head>
+                        <p>THe <hi>Line</hi> Finite, is a <hi>Line</hi> Bounded, which containeth, or ſuppofeth, a length ne<g ref="char:EOLhyphen"/>ceſſary, as <hi>A.</hi>
+                        </p>
+                        <p>The Infinite, is a <hi>Line</hi> undetermined, which hath no preciſe length, as <hi>B.</hi>
+                        </p>
+                        <p>The Apparent, or Traced out, is that which is deſcribed with Ink or Pencil, as <hi>A B.</hi>
+                        </p>
+                        <p>The Occult, or White, which is drawn only with the Point of the Compaſs, or marked with Points, and therefore they call it, the Pointed, or Line with Points, <hi>as C.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Ace <hi>of</hi> Diamonds.</trailer>
+               </div>
+               <div n="2◆" type="card">
+                  <head>
+                     <ref target="#A35751-2DIAMONDS">
+                        <hi>See the</hi> Duce <hi>of</hi> Diamonds.</ref>
+                  </head>
+                  <div type="definition">
+                     <div type="part">
+                        <head>The <hi>Line</hi> receiveth alſo divers Denominations, accor<g ref="char:EOLhyphen"/>ding to its divers Poſitions and Proprieties.</head>
+                        <p>A Perpendicular, is a right <hi>Line,</hi> which fal<g ref="char:EOLhyphen"/>leth, or lifteth it ſelf up upon another maketh the Angles of the one part, and, the other, equal between themſelves, as <hi>A B.</hi>
+                        </p>
+                        <p>A Plumb <hi>Line,</hi> is that which goeth from high to low without bending, either to the right, or to the left, and which would paſs through the Center of the World, if it were prolonged in<g ref="char:EOLhyphen"/>finitely, as <hi>C.</hi>
+                        </p>
+                        <pb n="4" facs="tcp:52434:4"/>
+                        <p>A <hi>Line</hi> Horizontal, is a <hi>Line</hi> in an equal poize, which inclineth it ſelf equally on the one part, and the other, as <hi>D E.</hi>
+                        </p>
+                        <p>
+                           <hi>Lines</hi> Parallels, are thoſe which follow each other by an equal diſtance, as <hi>H.</hi>
+                        </p>
+                        <p>An Oblique <hi>Line,</hi> which is neither Horizon<g ref="char:EOLhyphen"/>tal, nor a Plumb-line, but of a Bias, as <hi>F G.</hi>
+                        </p>
+                        <p>The Baſis is the Line, upon which the Figure repoſeth it ſelf, as <hi>I L.</hi>
+                        </p>
+                        <p>Sides, are thoſe Lines which encompaſs a Fi<g ref="char:EOLhyphen"/>gure, as <hi>I N. N M.</hi>
+                        </p>
+                     </div>
+                     <div type="part">
+                        <p>THe Diagonal, is a right <hi>Line</hi> that traver<g ref="char:EOLhyphen"/>ſeth a Figure, and that which endeth at two Angles oppoſite, as <hi>A B.</hi> The Dia<g ref="char:EOLhyphen"/>meter, is a right <hi>Line,</hi> which traverſeth, or paſ<g ref="char:EOLhyphen"/>ſeth through a Circular Figure by its Center, and which ends at the Circumference.</p>
+                        <p>A Spiral <hi>Line,</hi> is a Crooked <hi>Line,</hi> which par<g ref="char:EOLhyphen"/>teth from its Center, and groweth farther off in proportion as it turneth about, as <hi>E E.</hi>
+                        </p>
+                        <p>The Cord, or Subtendant is a right Line, which is join'd to an Arch, or Bow by its ends, as <hi>G H.</hi>
+                        </p>
+                        <p>The Arch, or Bow, is a Part of a Circumfe<g ref="char:EOLhyphen"/>rence, as <hi>G I H.</hi> A Line Tangent, is that which toucheth any Figure, without dividing it, and without being able to divide, or paſs through it, although it were prolonged, as <hi>L M.</hi>
+                        </p>
+                        <pb n="5" facs="tcp:52434:4"/>
+                        <p>A <hi>Line</hi> Secant, which Croſſeth, which divideth, or traverſeth, as <hi>L O. M O.</hi>
+                        </p>
+                     </div>
+                  </div>
+               </div>
+               <div n="3◆" type="card">
+                  <head>
+                     <ref target="#A35751-3DIAMONDS">
+                        <hi>See the</hi> Tray <hi>of</hi> Diamonds.</ref>
+                  </head>
+                  <div type="definition">
+                     <head>The Definition of the ANGLE.</head>
+                     <p>AN <hi>Angle,</hi> is the indirect meeting of two Lines, at one and the ſame Point, or ra<g ref="char:EOLhyphen"/>ther it is the ſpace encompaſſed between the indirect meeting, or concourſe of two lines, joining together in one Point, as <hi>A B C.</hi> When as this Concourſe is made of two right Lines, the <hi>Angle</hi> is called <hi>Rectilinear,</hi> and when it is made of two crooked Lines, it is called <hi>Curvi-linear;</hi> but when it is made of one right Line, and one crooked Line, it is called <hi>Mixtilinear.</hi>
+                     </p>
+                     <list>
+                        <item>
+                           <hi>A.</hi> The Angle <hi>Rectilinear.</hi>
+                        </item>
+                        <item>
+                           <hi>B.</hi> The Angle <hi>Curti-linear.</hi>
+                        </item>
+                        <item>
+                           <hi>C.</hi> The Angle <hi>Mixt-linear,</hi> or <hi>Compoſite.</hi>
+                        </item>
+                     </list>
+                     <p>The Angle <hi>Rectilinear,</hi> according as it is more or leſs open, it receiveth particular Denomina<g ref="char:EOLhyphen"/>tions; as Right, Sharp, Obtuſe, or Blunt: So that theſe Terms of Rectilinear, Curvi-linear, and Mixt, are in reſpect of the Quality of the Lines, and theſe of Right, Sharp and Obtuſe, are in reſpect of the quantity of the ſpace incloſed within the ſaid Lines.</p>
+                     <p>It is a right Angle, when one of the Lines is Perpendicular upon the other, as <hi>E D F.</hi>
+                     </p>
+                     <pb n="6" facs="tcp:52434:5"/>
+                     <p>The Angle is ſharp, when as it is leſs open than the right Angle, as <hi>E D G.</hi>
+                     </p>
+                     <p>The Angle is Obtuſe, when it is more open than the Right Angle, as <hi>F D G.</hi>
+                     </p>
+                     <p>The Letter <hi>D</hi> in the midſt ſheweth the Angle.</p>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Tray <hi>of</hi> Diamonds.</trailer>
+               </div>
+               <div n="4◆" type="card">
+                  <head>
+                     <ref target="#A35751-4DIAMONDS">
+                        <hi>See the</hi> Four <hi>of</hi> Diamonds.</ref>
+                  </head>
+                  <div type="definition">
+                     <head>The Definition of the <hi>Superficies.</hi>
+                     </head>
+                     <p>THe <hi>Superficies</hi> is that which hath length, and breadth without depth.</p>
+                     <p>According to the Geometricians, the Su<g ref="char:EOLhyphen"/>perficies is a Production of the flowing forth of the Line, as the Line is a Production of the Point: And thus we muſt conceive, that the Line <hi>E F.</hi> flowing towards <hi>G H.</hi> doth make the Superficies <hi>E F G H.</hi> which is an extenſion bounded with Lines, which hath nothing but length and breadth without any depth or thickneſs, which is called the Surface, or Figure, if one conſider it in re<g ref="char:EOLhyphen"/>ſpect of its extremities, which are the Lines that encloſe it.</p>
+                     <p>If the Superficies be on the upper part, it is called a Convex, if it be in the inner, or hollow part, it is called a Concave, if it be plane and united, it is called a Plane.</p>
+                     <list>
+                        <item>
+                           <hi>B.</hi> A Convex Superficies.</item>
+                        <item>
+                           <hi>C.</hi> A Concave Superficies.</item>
+                        <item>
+                           <hi>A.</hi> A Plane Superficies.</item>
+                     </list>
+                     <pb n="7" facs="tcp:52434:5"/>
+                     <p>The firſt Part teacheth only the Conſtruction, a framing of plain Superficies.</p>
+                     <p>A Term, or Bound, is the extremity of any thing. The Point, is the Term, or Bound of the Line. The Line, is the Term of the Superficies. And the Superficies, is the Term, or Bound, of a Body.</p>
+                     <trailer>
+                        <hi>Here endeth the</hi> Four <hi>of</hi> Diamonds.</trailer>
+                  </div>
+               </div>
+               <div n="5◆" type="card">
+                  <head>
+                     <ref target="#A35751-5DIAMONDS">
+                        <hi>See the</hi> Five <hi>of</hi> Diamouds.</ref>
+                  </head>
+                  <div type="definition">
+                     <head>
+                        <hi>Of</hi> Superficies, <hi>or</hi> Figures <hi>Rectilinear.</hi>
+                     </head>
+                     <p>THe <hi>Superficies</hi> do take particular Names, ac<g ref="char:EOLhyphen"/>cording to the Number of their Sides, as</p>
+                     <list>
+                        <item>A. A Trigone, or Triangle, a Figure of 3 ſides.</item>
+                        <item>B. A Tetragone, or Square, a Figure of 4 ſides;</item>
+                        <item>C. A Pentagone, or Figure of 5 ſides.</item>
+                        <item>D. An Exagone, or Figure of 6 ſides.</item>
+                        <item>E. Eptagone, a Figure of 7 ſides.</item>
+                        <item>F. Octogone, a Figure of 8 ſides.</item>
+                        <item>G. Enneagone, a Figure of 9 ſides.</item>
+                        <item>H. Decagone, a Figure of 10 ſides:</item>
+                        <item>I. Endecagone, a Figure of 11 ſides.</item>
+                        <item>L. Dodecagone, a figure of 12 ſides.</item>
+                     </list>
+                     <p>
+                        <hi>All theſe Figures are called likewiſe by one general Name</hi> Poligones.</p>
+                  </div>
+                  <div type="definition">
+                     <head>
+                        <hi>Of</hi> TRIANGLES.</head>
+                     <p>
+                        <hi>The Triangles are alſo diſtinguiſhed by the quality of their Angles, and by the diſpoſition of their ſides, as</hi>
+                     </p>
+                     <list>
+                        <item>M. A Triangle Rectangle, which hath a Right Angle.</item>
+                        <pb n="8" facs="tcp:52434:6"/>
+                        <item>N. A Triangle Ambligone, which hath an Ob<g ref="char:EOLhyphen"/>tuſe Angle.</item>
+                        <item>O. A Triangle Oxigone, which hath Three Angles ſharp.</item>
+                        <item>P. A Triangle Equilateral, which hath its Three ſides equal.</item>
+                        <item>Q. A Triangle Iſo fele, which hath two ſides equal only.</item>
+                        <item>R. A Triangle Scalene, which hath his three ſides unequal.</item>
+                     </list>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Five <hi>of</hi> Diamonds.</trailer>
+               </div>
+               <div n="6◆" type="card">
+                  <head>
+                     <ref target="#A35751-6DIAMONDS">
+                        <hi>See the</hi> Six <hi>of</hi> Diamonds.</ref>
+                  </head>
+                  <div type="definition">
+                     <head>Of <hi>Figures</hi> of Four Sides.</head>
+                     <list>
+                        <item>A. THe <hi>Square,</hi> is a Figure compoſed of four equal Sides, and four right Angles.</item>
+                        <item>B. A Long Square, is a Superficies Rectangle, that is to ſay, which hath its Angles right, but hath not its Sides equal.</item>
+                        <item>A B C. A Parallelo-gramme, is a Square-ſide fi<g ref="char:EOLhyphen"/>gure, whereof the oppoſite ſides are Parallels.</item>
+                        <item>D. A Rhombus, or Lozange, is a ſquare ſide fi<g ref="char:EOLhyphen"/>gure, which hath the four ſides equal, but not the four Angles.</item>
+                        <item>E. A Rhomboid, which hath the Angles and the ſide oppoſite equal, without being equal-an<g ref="char:EOLhyphen"/>gled, or equal-ſided.</item>
+                        <item>F. A Trapeze, which hath only two ſides oppo<g ref="char:EOLhyphen"/>ſite Parallel, and the other two equal.</item>
+                        <pb n="9" facs="tcp:52434:6"/>
+                        <item>G. A Trapezoide, or Tablett, which hath its Sides and its Angles unequal.</item>
+                        <item>H. A Gnomon, is the exceſs of a Parallelo-gram upon another Parallo-gram, framed upon the ſame Diagonal.</item>
+                     </list>
+                     <p>
+                        <hi>All other Figures, of more than four Sides, are cal<g ref="char:EOLhyphen"/>led by one general Name,</hi> Multi-lateres, <hi>or,</hi> Many-Sizes.</p>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Six <hi>of</hi> Diamonds.</trailer>
+               </div>
+               <div n="7◆" type="card">
+                  <head>
+                     <ref target="#A35751-7DIAMONDS">
+                        <hi>See the</hi> Seven <hi>of</hi> Diamonds.</ref>
+                  </head>
+                  <div type="definition">
+                     <head>Of <hi>Figures</hi> Crooked, or Curvi-linear.</head>
+                     <list>
+                        <item>A. A Circle, is a Superficies, or Figure, perfect<g ref="char:EOLhyphen"/>ly round, deſcribed, or drawn from a Center, from which the whole Circumference is of equal diſtance.</item>
+                        <item>A B C D. The Circumference is the Extremity, or outmoſt part of the Circle, otherwiſe it is the Circular-line that encloſeth it.</item>
+                        <item>B. An Oval, is a crooked Figure drawn from many Centers, and which all the Diameters divide into two equally.</item>
+                        <item>C. An Eclipſe, is alſo a crooked Figure drawn from many Centers, but in ſhape of an Egg, within the which there is but one only Dia<g ref="char:EOLhyphen"/>meter, which divideth it into two equally.</item>
+                        <item>D. A Volute, is a Figure, or Superficies, encom<g ref="char:EOLhyphen"/>paſſed by a Line Spiral.</item>
+                     </list>
+                  </div>
+                  <div type="definition">
+                     <pb n="10" facs="tcp:52434:7"/>
+                     <head>Of <hi>FIGURES</hi> Compoſite.</head>
+                     <list>
+                        <item>A. A Demi-Circle, is a Figure contained in the Diameter, with the half of the Cir<g ref="char:EOLhyphen"/>cumference.</item>
+                        <item>B. A part of a Circle, is a Figure contained with<g ref="char:EOLhyphen"/>in a right Line, and a part of a Circle.</item>
+                        <item>F. The great Portion of the Circle, is that which containeth more than the half of the Circle.</item>
+                        <item>G. The ſmall Portion of a Circle, is that which containeth leſs than the half of the Circle.</item>
+                        <item>C. A Sector, is a Figure contained within two Semi-Diameters, with more, or leſs, than the half of the Circle.</item>
+                     </list>
+                     <p>There is likewiſe the great and the ſmall Sector.</p>
+                     <list>
+                        <item>D. Figures Concentrical, are thoſe which have one and the ſame Center.</item>
+                        <item>E. Figures Excentrical, are thoſe which are contained in others of divers Centers.</item>
+                     </list>
+                     <trailer>
+                        <hi>Here endeth the</hi> Seven <hi>of</hi> Diamonds.</trailer>
+                  </div>
+               </div>
+               <div n="8◆" type="card">
+                  <head>
+                     <ref target="#A35751-8DIAMONDS">
+                        <hi>See the</hi> Eight <hi>of</hi> Diamonds.</ref>
+                  </head>
+                  <div type="definition">
+                     <head>Of Figures <hi>Regular</hi> and <hi>Irregular.</hi>
+                     </head>
+                     <list>
+                        <item>A. A Figure Regular, it that which hath its oppoſite parts like an Equal.</item>
+                        <item>B. An Irregular Figure, is that which is com<g ref="char:EOLhyphen"/>poſed of Angles and Sides unlike.</item>
+                        <item>E E. Figures a-like, are thoſe whereof all the Parts of one, are proportionable to all the
+<pb n="11" facs="tcp:52434:7"/> Parts of the other, although the one be grea<g ref="char:EOLhyphen"/>ter, or equal, or leſſer than the other.</item>
+                        <item>F F. Figures equal, are thoſe which contain e<g ref="char:EOLhyphen"/>qually, which may be like and unlike.</item>
+                        <item>C. The Figure Equi-Angle, which hath all its Angles equal.</item>
+                        <item>E E. One Figure is Equi-Angle to another, when as all the Angles of the one, are equal to all the Angles of the other.</item>
+                        <item>C D. A Figure Equilateral, which hath all its Sides equal.</item>
+                     </list>
+                     <trailer>
+                        <hi>Here endeth the</hi> Eight <hi>of</hi> Diamonds.</trailer>
+                  </div>
+               </div>
+               <div n="9◆" type="card">
+                  <head>
+                     <ref target="#A35751-9DIAMONDS">
+                        <hi>See the</hi> Nine <hi>of</hi> Diamonds.</ref>
+                  </head>
+                  <div type="axioms">
+                     <head>
+                        <hi>The</hi> AXIOMES.</head>
+                     <div type="axiom">
+                        <head>I.</head>
+                        <p>
+                           <hi>THings equal to the one and the ſame, are equal amongſt themſelves.</hi>
+                        </p>
+                        <p>The Lines A C, A C. which are equal to A B.<note place="margin">By the Defini<g ref="char:EOLhyphen"/>tion of a Circle.</note> are alſo equal be<g ref="char:EOLhyphen"/>tween themſelves.</p>
+                     </div>
+                     <div type="axiom">
+                        <head>II.</head>
+                        <p>
+                           <hi>If to equal Things, one ſhall add Things equal, all will become equal.</hi>
+                        </p>
+                        <list>
+                           <item>The Lines A C, A C, are equal.</item>
+                           <item>The added C D, C D, are equal.</item>
+                           <item>All of them A D, A D. are alſo equal.</item>
+                        </list>
+                     </div>
+                     <div type="axiom">
+                        <pb n="12" facs="tcp:52434:8"/>
+                        <head>III.</head>
+                        <p>
+                           <hi>If from equal Things, one take equal Things, the Re<g ref="char:EOLhyphen"/>mainder ſhall be equal.</hi>
+                        </p>
+                        <list>
+                           <item>If from equal Lines A D, A D.</item>
+                           <item>One take equal Parts A C, A C,</item>
+                           <item>The Parts remaining C D, C D.</item>
+                           <item>Shall be alſo equal.</item>
+                        </list>
+                     </div>
+                     <div type="axiom">
+                        <head>IV.</head>
+                        <p>
+                           <hi>If to Things unequal, one add Things equal, the whole will be unequal.</hi>
+                        </p>
+                        <list>
+                           <item>If two Lines unequal D E, D E.</item>
+                           <item>One does add the equal A D, A D.</item>
+                           <item>The whole A E, A E.</item>
+                           <item>Shall be unequal.</item>
+                        </list>
+                     </div>
+                     <div type="axiom">
+                        <head>V.</head>
+                        <p>
+                           <hi>If from Things unequal, one take Things equal, ehe Remainder ſhall be unequal.</hi>
+                        </p>
+                        <list>
+                           <item>If from the Lines unequal A E, A E.</item>
+                           <item>One take the equal A D, A D.</item>
+                           <item>The remainder D E, D E.</item>
+                           <item>Shall be unequal.</item>
+                        </list>
+                     </div>
+                     <div type="axiom">
+                        <head>VI.</head>
+                        <p>
+                           <hi>The Things that are double to one another, are equal between themſelves.</hi>
+                        </p>
+                        <p>The right Lines D D, D D.</p>
+                        <pb n="13" facs="tcp:52434:8"/>
+                        <list>
+                           <item>Which are double to the line A D.</item>
+                           <item>Are equal between themſelves.</item>
+                        </list>
+                     </div>
+                     <div type="axiom">
+                        <head>VII.</head>
+                        <p>The Things which are the half of the one and the ſame, or of Things equal, are equal amongſt them<g ref="char:EOLhyphen"/>ſelves.</p>
+                        <p>
+                           <hi>The Lines A D, A D, which are half of the Lines D D, D D, are equal between themſelves.</hi>
+                        </p>
+                        <p>That which is ſaid of Lines, may be alſo ſaid of Num<g ref="char:EOLhyphen"/>bers, Superficies, and of Bodies.</p>
+                     </div>
+                  </div>
+                  <trailer>[Here endeth the <hi>Nine</hi> of <hi>Diamonds.</hi>
+                  </trailer>
+               </div>
+               <div n="10◆" type="card">
+                  <head>
+                     <ref target="#A35751-10DIAMONDS">[See the <hi>Ten</hi> of <hi>Diamonds.</hi>
+                     </ref>
+                  </head>
+                  <div type="demands">
+                     <head>The <hi>Petitions,</hi> or <hi>Demands,</hi> ſerving for the Ordering of the <hi>Practice.</hi>
+                     </head>
+                     <div type="demand">
+                        <head>Demand <hi>I.</hi>
+                        </head>
+                        <p>DRaw a ſtraight Line from the Point <hi>A.</hi> to the Point <hi>B.</hi>
+                        </p>
+                        <div type="practice">
+                           <head>The Practice.</head>
+                           <p>Apply the Rule to the Points A and B. Draw the Line demanded A B. by letting the Pencil, or Draught, run cloſe to the rule from the point A. unto the point B.</p>
+                        </div>
+                     </div>
+                     <div type="demand">
+                        <head>Demand <hi>II.</hi>
+                        </head>
+                        <p>Enlarge infinitely the Line <hi>C D.</hi> as the ſide of the end <hi>D.</hi>
+                        </p>
+                        <div type="practice">
+                           <pb n="14" facs="tcp:52434:9"/>
+                           <head>The Practice.</head>
+                           <p>Join the Rule to the Line C D. Continue in<g ref="char:EOLhyphen"/>finitely the ſaid Line C D. on the ſide of the end D. letting the Pen run by the Ruler to<g ref="char:EOLhyphen"/>wards E.</p>
+                        </div>
+                     </div>
+                     <div type="demand">
+                        <head>Demand <hi>III.</hi>
+                        </head>
+                        <p>Draw a Circle from the Point <hi>A.</hi> and the Inter<g ref="char:EOLhyphen"/>val <hi>A B.</hi>
+                        </p>
+                        <div type="practice">
+                           <head>The Practice.</head>
+                           <p>Set one of the Points of the Compaſs at the Point given A. Open the other unto the point B. Turn the Compaſs upon the Point A. And drawing it from the Point B. Deſcribe the Cir<g ref="char:EOLhyphen"/>cle demanded B C D.</p>
+                        </div>
+                     </div>
+                     <div type="demand">
+                        <head>Demand <hi>IV.</hi>
+                        </head>
+                        <p>From the Points given <hi>E</hi> and <hi>F.</hi> make a Section.</p>
+                        <div type="practice">
+                           <head>The Practice.</head>
+                           <p>Open the Compaſs at pleaſure, yet in ſuch manner, that the opening of two Points may be greater than the half of the diſtance, which is between the two Points propounded E and F.</p>
+                           <p>By this opening of the Compaſs from the Point E, draw the Arch L M. From the point F. draw the Arch H I. The Section G. ſhall be the demanded.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <trailer>[<hi>Here endeth the</hi> Ten <hi>of</hi> Diamonds.</trailer>
+               </div>
+               <div n="K◆" type="card">
+                  <head>
+                     <ref target="#A35751-KDIAMONDS">[<hi>See the</hi> King <hi>of</hi> Diamonds.</ref>
+                  </head>
+                  <div n="1" type="proposition">
+                     <pb n="15" facs="tcp:52434:9"/>
+                     <head>PROPOSITION I.</head>
+                     <p>TO elevate a Perpendicular from a Point pro<g ref="char:EOLhyphen"/>pounded within the midſt of a ſtraight Line.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let C be the Point propounded within the midſt of the Line A B, from which a Perpen<g ref="char:EOLhyphen"/>dicular muſt be elevated.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the Point given C. draw at pleaſure the half-circle D E, from the Points D and E. Make the Section I. from the Point C. Draw the right Line demanded C O. by Section I. This Line C O. ſhall be Perpendicular to the Line given A B. and elevated from the Point propounded C.</p>
+                     </div>
+                  </div>
+                  <div n="2" type="proposition">
+                     <head>PROPOSITION II.</head>
+                     <p>
+                        <hi>To elevate a Perpendicular at the end of a right Line propounded.</hi>
+                     </p>
+                     <p>Let A be the end propounded of the Line A B. upon the which a Perpendicular muſt be elevated.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Set at pleaſure the Point C. above the Line A B. From this Point C. and the Interval C A. draw the portion of the Circle E A D. Bring the right Line D C E. by the Points D and C. Draw the Line demanded A E. it ſhall be Per<g ref="char:EOLhyphen"/>pendicular</p>
+                        <pb n="16" facs="tcp:52434:10"/>
+                        <p>to A B. and to the End propoun<g ref="char:EOLhyphen"/>ded A:</p>
+                     </div>
+                     <div type="practice">
+                        <head>Otherwiſe.</head>
+                        <list>
+                           <item>From the Point A, draw the Arch G H M.</item>
+                           <item>From the Point G, draw the Arch A H.</item>
+                           <item>From the Point H, draw the Arch A M N.</item>
+                           <item>From the Point M, draw the Arch H N.</item>
+                           <item>Draw the Line demanded A N.</item>
+                        </list>
+                     </div>
+                  </div>
+                  <trailer>[<hi>Here endeth the</hi> King <hi>of</hi> Diamonds:</trailer>
+               </div>
+               <div n="Q◆" type="card">
+                  <head>
+                     <ref target="#A35751-QDIAMONDS">[<hi>See the</hi> Queen <hi>of</hi> Diamonds.</ref>
+                  </head>
+                  <div n="3" type="proposition">
+                     <head>PROPOSITION III.</head>
+                     <p>Upon an Angle given, to elevate a right Line, which inclineth neither to the right hand, nor to the left.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let B A C be the Angle, upon the which a right Line muſt be elevated, which inclineth neither to the right hand, nor left.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the Angle given A. draw at pleaſure the Arch B C. from the Points, or Ends B and C. Make the Section D. from the Point, or Angle given A. Draw the right Line required A D. by the Section D. This right Line A D. ſhall be elevated upon the Angle B A C. with<g ref="char:EOLhyphen"/>out inclining either to the right hand, or to the left.</p>
+                     </div>
+                  </div>
+                  <div n="4" type="proposition">
+                     <pb n="17" facs="tcp:52434:10"/>
+                     <head>PROPOSITION IV.</head>
+                     <p>To depreſs, or bring down a Perpendicular-Line up<g ref="char:EOLhyphen"/>on a right Line given, and from a Point without the ſame.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let C. be the Point given, from which a Per<g ref="char:EOLhyphen"/>pendicular Line is to be brought down upon the Line A B.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the Point given C. draw, at pleaſure, the Arch D E. cutting the Line A B. at the Points D and E. From the Points D and E. make the Section F. Draw the Line C F. The Line C O. will be the Line Demanded.</p>
+                     </div>
+                  </div>
+                  <div n="5" type="proposition">
+                     <head>PROPOSITION V.</head>
+                     <p>By a Point given to draw a Line Parallel to a right Line given.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A be the Point, by the which we muſt draw a Line, which may be Parallel to the Line B C.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw at pleaſure the oblique Line A D. from the Point A. Draw the Arch D E. from the Point D. Draw the Arch A F. Make the Arch D G. equal to the Arch A F. Bring the Line demanded M N. by the Points A and G.</p>
+                        <pb n="18" facs="tcp:52434:11"/>
+                     </div>
+                     <div type="practice">
+                        <head>Otherwiſe.</head>
+                        <p>From the Point A. draw the Arch E F G. touching the Line B C.</p>
+                        <p>
+                           <hi>Without changing the opening of the Compaſſes.</hi>
+                        </p>
+                        <p>From the Point H. draw the Arch L R I.</p>
+                        <p>
+                           <hi>The Point</hi> H. <hi>is placed at pleaſure within the line</hi> B C.</p>
+                        <p>Draw the Line demanded O P. by the Point A. and grating upon the Arch L R I.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Queen <hi>of</hi> Diamonds.</trailer>
+               </div>
+               <div n="J◆" type="card">
+                  <head>
+                     <ref target="#A35751-JDIAMONDS">
+                        <hi>See the</hi> Knave <hi>of</hi> Diamonds.</ref>
+                  </head>
+                  <div n="6" type="proposition">
+                     <head>PROPOSITION VI.</head>
+                     <p>To cut a right Line given, and bounded into two equally.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B. be the right Line propounded, to be cut into two equally.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the point, or end A. draw the Arch C D.</p>
+                        <p>
+                           <hi>Without changing the opening of the Compaſſes.</hi>
+                        </p>
+                        <p>From the point, or end B. draw the Arch E F.</p>
+                        <p>
+                           <hi>Theſe two Arches muſt divide each other.</hi>
+                        </p>
+                        <p>Draw the right Line G H. by the Sections G and H. A B ſhall be divided into two equal<g ref="char:EOLhyphen"/>ly, at the Point O.</p>
+                     </div>
+                  </div>
+                  <div n="7" type="proposition">
+                     <pb n="19" facs="tcp:52434:11"/>
+                     <head>PROPOSITION VII.</head>
+                     <p>To cut an Angle Rectilinear given into two equally.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let B A C. be the Angle propounded, to be cut into two equally.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the Angle A. draw, at pleaſure, the Arch D E. From the Points D and E. make the Section O. Draw the Line A O.</p>
+                        <p>This Line A O. ſhall divide the Angle gi<g ref="char:EOLhyphen"/>ven B A C. into two equally.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Knave <hi>of</hi> Diamonds.</trailer>
+               </div>
+               <div n="A♥" type="card">
+                  <head>
+                     <ref target="#A35751-AHEARTS">
+                        <hi>See the</hi> Ace <hi>of</hi> Harts.</ref>
+                  </head>
+                  <div n="8" type="proposition">
+                     <head>PROPOSITION VIII.</head>
+                     <p>At the end of a right Line to make an Angle Re<g ref="char:EOLhyphen"/>ctilinear, equal to an Angle Rectilinear propoſed.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A. be the end of the Line A B. to which we muſt make an Angle, equal to the Angle Rectilinear given C D G.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the Angle D. draw, at pleaſure, the Arch C G.</p>
+                        <p>
+                           <hi>Without changing the opening of the Compaſſes.</hi>
+                        </p>
+                        <p>From the Point, or End A. draw the Arch H O. Make the Arch H E. equal to the Arch C G. Draw the Line A E. The Angle B A E.
+<pb n="20" facs="tcp:52434:12"/> ſhall be equal to the Angle C D G. the which was propounded to be done.</p>
+                     </div>
+                  </div>
+                  <div n="9" type="proposition">
+                     <head>PROPOSITION IX.</head>
+                     <p>To divide a ſtraight Line given, into as many equal Parts as one will.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B. be the Line propoſed to be divided into Six equal Parts.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the end A. draw, at diſcretion, the Line A C. From the end B. draw the Line B D. parallel to the Line A C. from the Points A and B. and upon the Lines A C B D. Bring, at diſcretion, ſix equal Parts, <hi>viz.</hi> E F G H I L. upon the Line A C. R Q P O N M upon the Line B D. Draw the Lines E N. F O. G P. H Q. L R. The Line A B. ſhall be divided in<g ref="char:EOLhyphen"/>to ſix equal Parts, by the Sections S. T. V. X. Y.</p>
+                     </div>
+                  </div>
+                  <div n="10" type="proposition">
+                     <head>PROPOSITION X.</head>
+                     <p>From a Point given to draw a ſtraight Line, which toucheth a Circle propounded.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A. be the Point, from which we muſt draw a Line which toucheth the Circle D O P.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the Center of the Circle B. draw the Line Secant B A. Divide this Line B A. into
+<pb n="21" facs="tcp:52434:12"/> two equally in C. from the point C. and the Interval C A. Draw the Demicircle A D B. cutting the Circle in D. from the point given A. Draw the right Line A E. by the point D. This right Line A E. ſhall be the Line touching the required.</p>
+                     </div>
+                  </div>
+                  <trailer>[<hi>Here endeth the</hi> Ace <hi>of</hi> Harts.</trailer>
+               </div>
+               <div n="2♥" type="card">
+                  <head>
+                     <ref target="#A35751-2HEARTS">
+                        <hi>See the</hi> Duce <hi>of</hi> Harts.</ref>
+                  </head>
+                  <div n="11" type="proposition">
+                     <head>PROPOSITION XI.</head>
+                     <p>To draw a right Line, which toucheth a Circle at a Point propounded.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B C. be the Circle given, within the Circumference of which, is the Point A. pro<g ref="char:EOLhyphen"/>pounded.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the Point, or Center D. draw the Line D F. by the Point propounded A. at the Point propounded A. and upon the Line D F. Draw the Perpendicular A H. prolonged to<g ref="char:EOLhyphen"/>wards I. This Line Tangent H I. ſhall touch the Circle at the Point propounded A. the which is required by the Propoſition.</p>
+                     </div>
+                  </div>
+                  <div n="12" type="proposition">
+                     <head>PROPOSITION XII.</head>
+                     <p>A Circle being given, and a ſtraight Line that touch<g ref="char:EOLhyphen"/>eth it, to find the Point where it toucheth.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B C. be the Circle touched by the Line G H. we muſt find the Point where it toucheth.</p>
+                     </div>
+                     <div type="practice">
+                        <pb n="22" facs="tcp:52434:13"/>
+                        <head>The Practice.</head>
+                        <p>From the Center of the Circle F. let down the Perpendicular F C. upon the Line touching D E. The Section C. ſhall be the Point of Touching demanded.</p>
+                     </div>
+                  </div>
+                  <div n="13" type="proposition">
+                     <head>PROPOSITION XIII.</head>
+                     <p>To deſcribe a Line Spiral upon a ſtraight Line given.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let I L. be the Line, upon which we would deſcribe a Line Spiral.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Provide the half of the Line I L. in<g ref="char:EOLhyphen"/>to as many equal Parts,<note place="margin">Page 18.</note> as you would deſcribe the Revolution.</p>
+                        <div type="example">
+                           <head>Example. If you would divide it into Four.</head>
+                           <p>Divide the half B I. into four equal parts B C E G I. Divide alſo B C. into two equally at A.<note place="margin">Page 12.</note> From the Point A. draw the Demi-circles B C. D E. F G. H I. From the point B. draw the Demi<g ref="char:EOLhyphen"/>circles C D. E F. G H. I L. and you ſhall have the Spiral Line required.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Duce <hi>of</hi> Harts.</trailer>
+               </div>
+               <div n="3♥" type="card">
+                  <div n="14" type="proposition">
+                     <pb n="23" facs="tcp:52434:13"/>
+                     <head>
+                        <ref target="#A35751-3HEARTS">PROPOSITION XIV.</ref>
+                     </head>
+                     <p>Between the Points given, to find two other directly interpoſed.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A and B. be the Points given, between the which we muſt find two other Points di<g ref="char:EOLhyphen"/>rectly interpoſed, by the means whereof we may draw a ſtraight Line from the Point A. to the point B. with a ſhort Ruler.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the Points A and B. make the Sections C and D. From the Points C and D. make the Sections G and H. The Points G and H. ſhall be the demanded; by the means of which, one may draw three ways a right Line from the point A. to the point B. the which could not be done in one, with a Ruler which ſhould be ſhorter than the ſpace between A and A.</p>
+                     </div>
+                  </div>
+                  <div n="1" type="proposition">
+                     <head>
+                        <hi>The Second Part of the Conſtruction of Plain Figures.</hi> PROPOSITION I.</head>
+                     <p>To frame a Triangle Equilateral upon a right Line given, and bounded.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B. be the Line given, upon the which we muſt frame a Triangle Equilateral.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice</head>
+                        <p>From the end A. and the Interval A B. de<g ref="char:EOLhyphen"/>ſcribe the Arch B D. from the end B. and the</p>
+                        <p>
+                           <hi>See the</hi> Tray <hi>of</hi> Harts.</p>
+                        <pb n="24" facs="tcp:52434:14"/>
+                        <p>Interval B A. Deſcribe the Arch A E. from the Section C. Draw the Lines C A. C B.</p>
+                        <p>A B C ſhall be the Triangle Equilateral de<g ref="char:EOLhyphen"/>manded.</p>
+                     </div>
+                  </div>
+                  <div n="2" type="proposition">
+                     <head>PROPOSITION II.</head>
+                     <p>To make a Triangle of three ſtraight Lines, equal to three ſtraight Lines given.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B C, be the three Lines given, we muſt make a Triangle of three right Lines equal to them.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw the right Line D E. equal to the Line A A. from the Point D. and from the Interval B B. Deſcribe the Arch G F. from the point F. and the Interval C C. Deſcribe the Arch H I. from the Section O. Draw the Lines O E, O D. The Triangle D E O. ſhall be compriſed of three right Lines, equal to the three right Lines given A A, B B, C C.</p>
+                     </div>
+                  </div>
+                  <trailer>[<hi>Here endeth the</hi> Tray <hi>of</hi> Harts.</trailer>
+               </div>
+               <div n="4♥" type="card">
+                  <head>
+                     <ref target="#A35751-4HEARTS">
+                        <hi>See the</hi> Four <hi>of</hi> Harts.</ref>
+                  </head>
+                  <div n="3" type="proposition">
+                     <head>PROPOSITION III.</head>
+                     <p>To frame a Square upon one right Line given, and bounded.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B be the right Line given and boun<g ref="char:EOLhyphen"/>ded, upon the which we muſt frame a Square.</p>
+                     </div>
+                     <div type="practice">
+                        <pb n="25" facs="tcp:52434:14"/>
+                        <head>The Practice.</head>
+                        <p>Elevate the Perpendicular A C. from the point A.<note place="margin">Page 4.</note> Deſcribe the Arch B C. from the Points B and C. and from the Interval A B. Make the Section D. from the point D. Draw the Lines D C, D B. A B C D ſhall be the Square demanded, framed upon the right Line given A B.</p>
+                     </div>
+                  </div>
+                  <div n="4" type="proposition">
+                     <head>PROPOSITION IV.</head>
+                     <p>To frame a Pentagone Regular upon a right Line given.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B be the Line given, upon the which we muſt frame a Pentagone.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the end A. and from the Interval A B. Deſcribe the Arch B D F. Elevate the Perpen<g ref="char:EOLhyphen"/>dicular A C. Divide the Arch B C. into five e<g ref="char:EOLhyphen"/>qual Parts I D L M. Draw the right line A D. Cut the Baſes A B. into two equally in O. Elevate the Perpendicular O E. from the Secti<g ref="char:EOLhyphen"/>on E. and from the Interval E A. Deſcribe the Circle A B F G H. Bring five times the Line A B. within the circumference of the Circle, and you ſhall have a Pentagone Regular, Equi<g ref="char:EOLhyphen"/>angle, Equilateral A B F G H.</p>
+                     </div>
+                  </div>
+                  <div n="5" type="proposition">
+                     <pb n="26" facs="tcp:52434:15"/>
+                     <head>PROPOSITION V.</head>
+                     <p>To frame an Exagone Regular upon a right Line given.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B. be the right Line, upon the which we muſt frame an Exagone.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the end A and B. and from the Inter<g ref="char:EOLhyphen"/>val A B. Deſcribe the Arches A C, B C. from the Section C. Deſcribe the Circle A B E F G. Bring Six times the Line given A B, within the circumference, and you ſhall have an Exagone Regular A B E F G D, framed upon the Line given A B.</p>
+                     </div>
+                  </div>
+                  <trailer>[<hi>Here endeth the</hi> Four <hi>of</hi> Harts.</trailer>
+               </div>
+               <div n="5♥" type="card">
+                  <head>
+                     <ref target="#A35751-5HEARTS">
+                        <hi>See the</hi> Five <hi>of</hi> Harts.</ref>
+                  </head>
+                  <div n="6" type="proposition">
+                     <head>PROPOSITION VI.</head>
+                     <p>Upon a right Line given, to deſcribe ſuch a Poli<g ref="char:EOLhyphen"/>gone, as you would have from the Exagone unto the Dodecagone.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B be the Line, upon the which that muſt frame an Exagone, or an Eptagone, or an Octogone, <hi>&amp;c.</hi>
+                        </p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Cut the Line A B. into two equal<g ref="char:EOLhyphen"/>ly in O.<note place="margin">Page 10.</note> Elevate the Perpendicular O I. From the Point B. deſcribe the Arch A C. Di<g ref="char:EOLhyphen"/>vide
+<pb n="27" facs="tcp:52434:15"/> A C. into ſix equal parts M N. P Q R. this may make an Eptagone if you will. From the Point C. and the Interval of one part C M. deſcribe the Arch M D. D ſhall be the Cen<g ref="char:EOLhyphen"/>ter to deſcribe a Circle, capable of containing ſeven times the Line A B.</p>
+                        <p>
+                           <hi>If you would make an </hi>Octogone.</p>
+                        <p>From the point C. and the Interval of two parts C N. deſcribe the Arch N E. E. ſhall be the Center, to deſcribe a Circle capable of containing eight times the Line A B,</p>
+                        <p>
+                           <hi>If you would make an </hi>Enneagone.</p>
+                        <p>You muſt take the three parts C P.</p>
+                        <p>
+                           <hi>And ſo likewiſe of others, always augmenting it by one part.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <trailer>[Here endeth the <hi>Five</hi> of <hi>Harts.</hi>
+                  </trailer>
+               </div>
+               <div n="6♥" type="card">
+                  <head>
+                     <ref target="#A35751-6HEARTS">[<hi>See the</hi> Six <hi>of</hi> Harts.</ref>
+                  </head>
+                  <div n="7" type="proposition">
+                     <head>PROPOSITION VII.</head>
+                     <p>Upon a right Line given to frame ſuch a <hi>Poli<g ref="char:EOLhyphen"/>gone,</hi> as one would have from <hi>12</hi> to <hi>24</hi> ſides.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B. be the Line, upon the which one would frame any <hi>Poligone.</hi>
+                        </p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Divide the Arch A C. into twelve equal parts, from the point C. Take as many parts upon C A. as there is need above the Twelve, to have as many parts as one requireth of the Sides.</p>
+                        <pb n="28" facs="tcp:52434:16"/>
+                        <p>
+                           <hi>Example.</hi>
+                        </p>
+                        <p>
+                           <hi>If you make a Figure of fifteen Sides.</hi>
+                        </p>
+                        <p>From the point C. and from the Interval of three parts C E. deſcribe the Arch E O.</p>
+                        <p>
+                           <hi>A C of</hi> 12, <hi>C O of</hi> 3, <hi>will make together</hi> 15.</p>
+                        <p>From the point O, and the Interval O B. deſcribe the Arch B E. From the point F. and the Interval F A. deſcribe a Circumference, it ſhall contain fifteen times the Line given A B.</p>
+                        <p>
+                           <hi>And ſo of other</hi> Poligones.</p>
+                     </div>
+                  </div>
+                  <trailer>[<hi>Here endeth the</hi> Six <hi>of</hi> Harts.</trailer>
+               </div>
+               <div n="7♥" type="card">
+                  <head>
+                     <ref target="#A35751-7HEARTS">
+                        <hi>See the</hi> Seven <hi>of</hi> Harts.</ref>
+                  </head>
+                  <div n="8" type="proposition">
+                     <head>PROPOSITION VIII.</head>
+                     <p>Upon a right Line given, to deſcribe a Portion of a Circle, capable of an Angle equal to an Angle given.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B. be a Line, bounded upon that which one would make a Portion of a Circle, capable of containing an Angle equal to the Angle given C.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Make the Angle B A D. equal to the Angle C.<note place="margin">Page 16. Page 2. Page 2.</note> Elevate upon A D. the Perpendicular A E. Divide the Line A B. into two equally in H. Elevate the Perpendicular H E. from the Section F. and from the Interval F A. Deſcribe the Por<g ref="char:EOLhyphen"/>tion of the Circle A E B. All the Angles that
+<pb n="29" facs="tcp:52434:16"/> you ſhall make within the Portion of a Circle, and upon the Line given A B, ſhall be all equal to the Angle C.</p>
+                     </div>
+                  </div>
+                  <div n="9" type="proposition">
+                     <head>PROPOSITION IX.</head>
+                     <p>To find the Center of a Circle given.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B C. be a Circle propounded, where<g ref="char:EOLhyphen"/>of we muſt find the Center.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw, at diſcretion, the right Line A B. bounding it ſelf at the Circumference B C. Cut this right Line A B. into two by the Line D C, Cut alſo this right Line C D. into two equally in F. The point F. ſhall be the Center demanded of the Circle A B C.</p>
+                     </div>
+                  </div>
+                  <trailer>[<hi>Here endeth the</hi> Seven <hi>of</hi> Harts.</trailer>
+               </div>
+               <div n="8♥" type="card">
+                  <head>
+                     <ref target="#A35751-8HEARTS">
+                        <hi>See the</hi> Eight <hi>of</hi> Harts.</ref>
+                  </head>
+                  <div n="10" type="proposition">
+                     <head>PROPOSITION X.</head>
+                     <p>To finiſh a Circumference begun, whereof the Cen<g ref="char:EOLhyphen"/>ter is loſt.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B C. be the part of the Circumference given, we muſt find the Center, that we may finiſh it.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Place, at diſcretion, the three Points A B C. within the circumference begun. From the
+<pb n="30" facs="tcp:52434:17"/> Points A and B. make the Sections E and F. Draw the right Line E F. from the Points B and C. Make the Sections G And H. Draw the right Line G H. From the Interſection and Center I. and from the Interval I A. finiſh the Circum<g ref="char:EOLhyphen"/>ference began.</p>
+                     </div>
+                  </div>
+                  <div n="11" type="proposition">
+                     <head>PROPOSITION XI.</head>
+                     <p>To deſcribe a Circumference by three Points given.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B C. be the three Points, by the which one would paſs a Circumference.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the Points given A B C. deſcribe the three Circles D E H. D E F. F G L. of the ſame Interval, dividing each other in the points D and E, F and G. Draw the right Lines D E, F G. until that they meet each other in I. From the point I. and the Interval I A. de<g ref="char:EOLhyphen"/>ſcribe the Circumference required.</p>
+                        <p>
+                           <hi>This Practice is like the former.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <trailer>[<hi>Here endeth the</hi> Eight <hi>of</hi> Harts.</trailer>
+               </div>
+               <div n="9♥" type="card">
+                  <head>
+                     <ref target="#A35751-9HEARTS">
+                        <hi>See the</hi> Nine <hi>of</hi> Harts.</ref>
+                  </head>
+                  <div n="12" type="proposition">
+                     <head>PROPOSITION XII.</head>
+                     <p>To deſcribe an Oval upon a Length given.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B. be the Length, upon the which we muſt frame an Oval.</p>
+                     </div>
+                     <div type="practice">
+                        <pb n="31" facs="tcp:52434:17"/>
+                        <head>The Practice.</head>
+                        <p>Divide the length given A B. into three parts equal A C D B.<note place="margin">Page 18.</note> from the points C and D. and from the Inter<g ref="char:EOLhyphen"/>val C A. Deſcribe the Circles A E F, B E F. from the Sections E and F. and from the In<g ref="char:EOLhyphen"/>terval of the Diameter E H. Deſcribe the Ar<g ref="char:EOLhyphen"/>ches I H, O P. A I H B P O. ſhall be the Oval required.</p>
+                     </div>
+                  </div>
+                  <div n="13" type="proposition">
+                     <head>PROPOSITION XIII.</head>
+                     <p>To deſcribe an Oval upon two Diameters given.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>A B, C D. are the Diameters, upon the which we muſt frame an Oval.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Make the Rule M O. equal to the great half Diameter A E. upon the which you ſhall make the length M N. equal to the half Diameter C E.</p>
+                     </div>
+                     <div type="practice">
+                        <head>This Rule being ſo ordered.</head>
+                        <p>Place it ſo upon the Demands A B. C D. That the point N. ſliding upon the line A B. the end O. may never leave the line C D. run<g ref="char:EOLhyphen"/>ning on ſo the ſaid Rule M O. Deſcribe the Oval by the end M.</p>
+                     </div>
+                  </div>
+                  <div n="14" type="proposition">
+                     <pb n="32" facs="tcp:52434:18"/>
+                     <head>PROPOSITION XIV.</head>
+                     <p>To find the Center, and the two Diameters of an Oval.</p>
+                     <div type="position">
+                        <head>The Poſition.</head>
+                        <p>Let A B C D. be the Oval propounded, whereof we muſt find the Centers, and the Diameters.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Within the Oval propounded A B C D. draw at diſcretion,<note place="margin">Pgae 10.</note> the Lines parallels A N. H I. Cut theſe Lines A N. H I. into two equally in L and M. Draw the Line, P L M O. Cut it into two equally in E. and the point E. ſhall be already the Center from the Point E. Deſcribe, at diſcretion, the Circle F H Q. cutting the Oval in F and G. from the Sections F and G. Draw the right Line F G. Cut it into two equally in R. Draw the great Diameter B D. by the Points E R. from the Center E.<note place="margin">Page 10.</note> Draw the leſs Diameter A E C. parallel to the Line F G.</p>
+                        <p>This is it which was propounded.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Nine <hi>of</hi> Harts.</trailer>
+               </div>
+               <div n="10♥" type="card">
+                  <head>
+                     <ref target="#A35751-10HEARTS">
+                        <hi>See the</hi> Ten <hi>of</hi> Hearts.</ref>
+                  </head>
+                  <div n="15" type="proposition">
+                     <pb n="33" facs="tcp:52434:18"/>
+                     <head>PROPOSITION XV.</head>
+                     <p>To frame a Figure Rectilinear upon a right line bounded, like unto a Figure Rectilinear Pro<g ref="char:EOLhyphen"/>pounded.</p>
+                     <p>
+                        <hi>Let A B. be the line upon the which we muſt frame a Figure like to the Figure C D E F.</hi>
+                     </p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw the Diagonal C E. make the Angle B A G. equal to the Angle F C E. make the An<g ref="char:EOLhyphen"/>gle A B G. equal to the Angle C F E. the tri<g ref="char:EOLhyphen"/>angle A B G. ſhall be like to the Triangle C F E.</p>
+                     </div>
+                     <div type="practice">
+                        <head>The ſame.</head>
+                        <p>Make the Triangle A G H. like to the Tri<g ref="char:EOLhyphen"/>angle C E D. the whole Figure A B G H. ſhall be like to the whole Figure C D E F.</p>
+                     </div>
+                  </div>
+                  <div n="16" type="proposition">
+                     <head>PROPOSITION XVI.</head>
+                     <p>
+                        <hi>Upon a right line Propounded to frame two Rect<g ref="char:EOLhyphen"/>angles according to one Reaſon given.</hi>
+                     </p>
+                     <p>A B is the line upon which we muſt frame two Rectangles, which may be between them, according to the reaſon of C to D.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Cut the line A B. at the point E according to the reaſon or proportion of C to D. make the ſquare A B, H F. draw the line E I. parallel to the line A F. B E I H, A E I F ſhall be the Rect<g ref="char:EOLhyphen"/>angle
+<pb n="34" facs="tcp:52434:19"/>required; the Rectangle A I. is to the Rectangle E. H. as the line D. is to the line C.</p>
+                        <p>
+                           <hi>See the</hi> Ten <hi>of</hi> Hearts.</p>
+                     </div>
+                  </div>
+                  <div n="1" type="proposition">
+                     <head>PROPOSITION I.</head>
+                     <p>
+                        <hi>Within a Circle given to inſcribe a Triangle Equi<g ref="char:EOLhyphen"/>lateral, an Exagone and a Dodecagone.</hi>
+                     </p>
+                     <p>Let A B G. be the Circle, within which we muſt inſcribe a Triangle Equilateral, <hi>&amp;c.</hi>
+                     </p>
+                     <div type="practice">
+                        <head>The Practice. <hi>Of the Triangle Equilateral.</hi>
+                        </head>
+                        <p>From the point, as A. and from the interval of the half Diameter A B. deſcribe the Arch C B D. draw the right line D C. bring this Interval C D. from the point C. to the point F. Draw the lines F C, F D. C D F ſhall be the Triangle required.</p>
+                     </div>
+                     <div type="practice">
+                        <head>Of the Exagone.</head>
+                        <p>Bring ſix times the half Diameter A B. with<g ref="char:EOLhyphen"/>in the circumference given.</p>
+                     </div>
+                     <div type="practice">
+                        <head>Of the Dodecagone.</head>
+                        <p>Cut the Arch of the Exagone A C. into two equally in O. A O ſhall be the ſide of the <hi>Dodecagone.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here ended the</hi> Ten <hi>of</hi> Hearts.</trailer>
+               </div>
+               <div n="K♥" type="card">
+                  <head>
+                     <ref target="#A35751-KHEARTS">
+                        <hi>See the King of</hi> Hearts.</ref>
+                  </head>
+                  <div n="2" type="proposition">
+                     <head>PROPOSITION II.</head>
+                     <p>
+                        <hi>Within a Circle given to inſcribe a Square, and an Octogone.</hi>
+                     </p>
+                     <p>Let A B C D be the Circle, within the which, one would inſcribe a Square and an <hi>Octogone.</hi>
+                     </p>
+                     <div type="practice">
+                        <pb n="35" facs="tcp:52434:19"/>
+                        <head>The Practice. Of the Square.</head>
+                        <p>Draw the two Diameters A B C D. divid<g ref="char:EOLhyphen"/>ing each other at Right Angles, that is to ſay, draw the right line C D. by the center of the Circle O. from the Points or Ends C and D. Make the Sections I and L. draw the right line I L. paſſing alſo by the Center O. the Lines or Di<g ref="char:EOLhyphen"/>ameters A B, C D. ſhall divide themſelves at right Angles being the lines A C, A D, B C, B D. And A C, B D ſhall be the Square re<g ref="char:EOLhyphen"/>quired.</p>
+                     </div>
+                     <div type="practice">
+                        <head>Of the Octogone.</head>
+                        <p>Subdivide every fourth of the Circle, you ſhall make the Octogone.</p>
+                     </div>
+                  </div>
+                  <div n="3" type="proposition">
+                     <head>PROPOSITION III.</head>
+                     <p>Within a Circle given to inſcribe a Pentagone and a Decagone.</p>
+                     <p>
+                        <hi>Let A B, C D be the Circle propounded.</hi>
+                     </p>
+                     <div type="practice">
+                        <head>The Practice. Of the <hi>Pentagone.</hi>
+                        </head>
+                        <p>Draw the two Diameters A B C D. divi<g ref="char:EOLhyphen"/>ding themſelves at right Angles in E. Divide the half Diameters C E. into two equally in F. from the point F. and from the Interval F A. Deſcribe the Arch A G. from the point A. and from the Interval A G. deſcribe the Arch G H. The righ line A H. ſhall divide the circle into five equal parts.</p>
+                     </div>
+                     <div type="practice">
+                        <pb n="36" facs="tcp:52434:20"/>
+                        <head>Of the Decagone.</head>
+                        <p>Subdivide every part of the circle into two equally.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the King of</hi> Hearts.</trailer>
+               </div>
+               <div n="Q♥" type="card">
+                  <head>
+                     <ref target="#A35751-QHEARTS">
+                        <hi>See the</hi> Queen <hi>of</hi> Hearts.</ref>
+                  </head>
+                  <div n="4" type="proposition">
+                     <head>PROPOSITION IV.</head>
+                     <p>
+                        <hi>Within a Circle given to inſcribe an Eptagone.</hi>
+                     </p>
+                     <p>Let A B C be the circle propounded, with<g ref="char:EOLhyphen"/>in the which we muſt make an <hi>Eptagone.</hi>
+                     </p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw the half Diameter I A. from the end A. and from the Interval A I. deſcribe the arch C I C. draw the right line C C. bear the half C O. ſeven times within the circumference of the circle, you ſhall have the <hi>Eptagone</hi> required.</p>
+                     </div>
+                  </div>
+                  <div n="5" type="proposition">
+                     <head>PROPOSITION V.</head>
+                     <p>
+                        <hi>Within a Circle given to deſcribe an Enneagone.</hi>
+                     </p>
+                     <p>Let B C D be a circle propounded, within which one would inſcribe an Enneagone.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw the half Diameter A B. from the end B. and from the Interval B A. Deſcribe the Arch C A D. draw the right line C D. en<g ref="char:EOLhyphen"/>larged towards F. make the line E F. equal to the line A B. from the point E. Deſcribe the Arch F G. from the point F. Deſcribe the Arch E G. draw the right line A G. D H, ſhall be the Ninth part of the circumference.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Queen <hi>of</hi> Hearts.</trailer>
+               </div>
+               <div n="J♥" type="card">
+                  <head>
+                     <ref target="#A35751-JHEARTS">
+                        <hi>See the</hi> Knave of Hearts.</ref>
+                  </head>
+                  <div n="6" type="proposition">
+                     <pb n="37" facs="tcp:52434:20"/>
+                     <head>PROPOSITION VI.</head>
+                     <p>
+                        <hi>Within a Circle given to inſcribe an Endecagone.</hi>
+                     </p>
+                     <p>Let A E F be the Circle given, within which we muſt inſcribe an <hi>Endecagone.</hi>
+                     </p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw the half Diameter A B. divide the half Diameter A B. into two equally in C. from the points A and C. and from the Inter<g ref="char:EOLhyphen"/>val A C. Deſcribe the Arches C D I, A D. from the point I. and from the Interval I D. Deſcribe the Arch D O. the Interval C O. ſhall be the ſide of the <hi>Endecagone,</hi> required very punctu<g ref="char:EOLhyphen"/>ally.</p>
+                     </div>
+                  </div>
+                  <div n="7" type="proposition">
+                     <head>PROPOSITION VII.</head>
+                     <p>Within the Circle given to inſcribe ſuch a Poligone as one would.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw the Diameter A B. deſcribe the cir<g ref="char:EOLhyphen"/>cle A B F. capable to contain ſeven times A B. as if you would frame upon A B. a Poligone like to that which you ſhould inſcribe with<g ref="char:EOLhyphen"/>in the circle given A B C. Draw the Diameter D E. parallel to the Diameter A B. draw the right lines D A G, F B H. by the ends D A, E B. G H ſhall divide the circle given A B C. into ſeven equal parts: And ſo of all other Po<g ref="char:EOLhyphen"/>ligones.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Knave <hi>of</hi> Hearts.</trailer>
+               </div>
+               <div n="A♠" type="card">
+                  <head>
+                     <ref target="#A35751-ASPADES">
+                        <hi>See the</hi> Ace <hi>of</hi> Spades.</ref>
+                  </head>
+                  <div n="8" type="proposition">
+                     <pb n="38" facs="tcp:52434:21"/>
+                     <head>PROPOSITION VIII.</head>
+                     <p>
+                        <hi>From a Circle given, to take a Portion Capable of an Angle, equal to an Angle Rectilinear propounded.</hi>
+                     </p>
+                     <p>Let A C E be the Circle given from which we muſt take a Portion capable to contain an Angle equal to the Angle D.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw the half Diameter A B. bring the line touching A F. make the Angle F A C. equal to the Angle given D. All the Angles which ſhall be framed upon the line A C. and with<g ref="char:EOLhyphen"/>in the portion A E C. ſhall be all equal to the Angle given D. ſo the portion A E C. is the required.</p>
+                     </div>
+                  </div>
+                  <div n="9" type="proposition">
+                     <head>PROPOSITION IX.</head>
+                     <p>
+                        <hi>Within a Circle to inſcribe a Triangle of equal Angles to a Triangle given.</hi>
+                     </p>
+                     <p>Let A B C be the Circle within the which we muſt inſcribe a Triangle like to the Tri<g ref="char:EOLhyphen"/>angle D E F.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Bring the line touching G H. from the point of the touching A. make the Angle H A C. equal to the Angle E. make alſo the Angle G. A B. equal to the Angle D. Draw the line B C. A B C is the Triangle required like to the Triangle given D E F.</p>
+                     </div>
+                  </div>
+                  <div n="10" type="proposition">
+                     <pb n="39" facs="tcp:52434:21"/>
+                     <head>PROPOSITION X.</head>
+                     <p>
+                        <hi>To inſcribe a Circle within a Triangle given.</hi>
+                     </p>
+                     <p>Let A B C be the Triangle, within the which we muſt inſcribe a circle.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Divide the two Angles B and C. each in<g ref="char:EOLhyphen"/>to two equally, by the right lines B D, C D. From the Section D. bring down the perpen<g ref="char:EOLhyphen"/>dicular D F. From the Section or Center D. and from the Interval D F. deſcribe the cir<g ref="char:EOLhyphen"/>cle demanded E F G.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Ace <hi>of</hi> Spades.</trailer>
+               </div>
+               <div n="2♠" type="card">
+                  <head>
+                     <ref target="#A35751-2SPADES">
+                        <hi>See the</hi> Deux <hi>of</hi> Spades.</ref>
+                  </head>
+                  <div n="11" type="proposition">
+                     <head>PROPOSITION XI.</head>
+                     <p>
+                        <hi>To inſcribe a Square within a Triangle given.</hi>
+                     </p>
+                     <p>Let A B C be the Triangle, within the which we muſt inſcribe a ſquare.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Elevate the perpendicular A D. at the end of the Baſis A B. make this perpendicular A D. equal to the baſis A B. From the Angle C. draw the line C E. parallel to the line A D. Bring the oblique line D E. from the ſection F. draw the line F G. parallel to the baſis A B. draw the lines F H, G I. parallel to the line C E, F G, H I ſhall be the Square required.</p>
+                     </div>
+                  </div>
+                  <div n="12" type="proposition">
+                     <pb n="40" facs="tcp:52434:22"/>
+                     <head>PROPOSITION XII.</head>
+                     <p>
+                        <hi>To inſcribe a Pentagone Regular within a Tri<g ref="char:EOLhyphen"/>angle Equilateral.</hi>
+                     </p>
+                     <p>Let A B C be the Triangle, within the which one would inſcribe a <hi>Pentagone.</hi>
+                     </p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Bring down the Perpendicular A I. from the center A. deſcribe the Arch B I M. divide into five equal parts the Arch B I. bring the ſixth I M. draw the line A M. divide A M. into two equally in L. from the point A. de<g ref="char:EOLhyphen"/>ſcribe the Arch L D. draw the right line L D, unto H. Make the part A G. equal to the part B H. draw the right line D G, M C. from the center D. and from the Interval of the ſection N. deſcribe the Arch N O. from the points N and O. deſcribe the Arches D Q, D P. draw the lines O P, P Q, N Q. D O P Q N ſhall be the Pentagone required.</p>
+                     </div>
+                  </div>
+                  <div n="13" type="proposition">
+                     <head>PROPOSITION XIII.</head>
+                     <p>
+                        <hi>To inſcribe a Triangle Equilateral within a ſquare.</hi>
+                     </p>
+                     <p>Let A B C D be the ſquare, within the which we muſt make a Triangle Equilateral.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw the Diagonals A C, B D. from the Center E. and from the Interval E A. deſcribe the circle A B C D. from the point C. and the Interval C E. Deſcribe the Arch G E F. draw
+<pb n="41" facs="tcp:52434:22"/>the right lines A F, A G. bring the right line H I. A H L ſhall be the Triangle Equilateral required.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Deux <hi>of</hi> Spades.</trailer>
+               </div>
+               <div n="3♠" type="card">
+                  <head>
+                     <ref target="#A35751-3SPADES">
+                        <hi>See the</hi> Trois <hi>of</hi> Spades.</ref>
+                  </head>
+                  <div n="14" type="proposition">
+                     <head>PROPOSITION XIV.</head>
+                     <p>
+                        <hi>To inſcribe a Triangle Equilateral within a Pentagone.</hi>
+                     </p>
+                     <p>Let A B C D E be the Pentagone, within the which we muſt inſcribe a Triangle Equi<g ref="char:EOLhyphen"/>lateral.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Circumſcribe the circle A B C D E. from the point A. and from the Inter<g ref="char:EOLhyphen"/>val of the half Diameter A F. deſcribe the Arch F L. divide this Arch F L. into two equally in N. draw the line A N I. from the point A. and from the Interval A I. deſcribe the Arch I O H. draw the lines A H, H I. A H I ſhall be the Triangle demanded.</p>
+                     </div>
+                  </div>
+                  <div n="15" type="proposition">
+                     <head>PROPOSITION XV.</head>
+                     <p>
+                        <hi>To inſcribe a Square within a Pentagone.</hi>
+                     </p>
+                     <p>Let A B C D E be the Pentagone, within the which we muſt inſcribe a ſquare.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw the right line B E. let down the Per<g ref="char:EOLhyphen"/>pendicular E T. at the end of B E. make this Perpendicular E T. equal to the line B E. draw the line E T. from the ſection O. bring the
+<pb n="42" facs="tcp:52434:23"/>line O P. parallel to the ſide C D. at the end O P. Elevate the perpendiculars O M, P I. draw the line N M. N M O P ſhall be the ſquare required.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Trois <hi>of</hi> Spades.</trailer>
+               </div>
+               <div n="4♠" type="card">
+                  <head>
+                     <ref target="#A35751-4SPADES">
+                        <hi>See the</hi> Four <hi>of</hi> Spades.</ref>
+                  </head>
+                  <div n="1" type="proposition">
+                     <head>PROPOSITION I.</head>
+                     <p>
+                        <hi>About a Triangle given to Circumſcribe a Circle.</hi>
+                     </p>
+                     <p>LEt A B C be the Triangle, about the which one would circumſcribe a Circle.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Deſcribe the circumference A B C. by the three Points A, B, C. and you ſhall have the demanded.</p>
+                     </div>
+                  </div>
+                  <div n="2" type="proposition">
+                     <head>PROPOSITION II.</head>
+                     <p>
+                        <hi>About a Square to Circumſcribe a Circle.</hi>
+                     </p>
+                     <p>Let A B C D be the Square about which we muſt circumſcribe a Circle.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw the two Diagonals A B C D. from the ſection or Center G. and from the Interval G A. deſcribe the circle demanded A B C D.</p>
+                     </div>
+                  </div>
+                  <div n="3" type="proposition">
+                     <head>PROPOSITION III.</head>
+                     <p>
+                        <hi>About a Circle to circumſcribe a Triangle of equal Angles to a Triangle given.</hi>
+                     </p>
+                     <p>Let D E V be the Circle, about the which we muſt make a Triangle which may be like to the Triangle F G H.</p>
+                     <div type="practice">
+                        <pb n="43" facs="tcp:52434:23"/>
+                        <head>The Practice.</head>
+                        <p>Draw the Diameter A B. by the center C. make the Angle A C E. equal to the Angle H. make the Angle B C D. equal to the Angle G. prolong the lines E C, D C. towards R and S. draw the line Tangent N O. parallel to the line D R. draw the line Tangent O I. parallel to the line E S. draw alſo the line Touchant N I. parallel to the Diameter A B. I N O ſhall be the Triangle demanded, like to the Tri<g ref="char:EOLhyphen"/>angle F G H, circumſcribed about the circle, D E V.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Four <hi>of</hi> Spades.</trailer>
+               </div>
+               <div n="5♠" type="card">
+                  <head>
+                     <ref target="#A35751-5SPADES">
+                        <hi>See the</hi> Five <hi>of</hi> Spades.</ref>
+                  </head>
+                  <div n="4" type="proposition">
+                     <head>PROPOSITION IV.</head>
+                     <p>
+                        <hi>About a Circle to circumſcribe a Square.</hi>
+                     </p>
+                     <p>Let A B C D be the circle, about the which we muſt deſcribe a Square.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw the Diameters A B, C D. dividing themſelves at right Angles in O. From the points A, C, B, D, and from the Interval A O. de<g ref="char:EOLhyphen"/>ſcribe the Demicircles H O G, H O E, E O F, F O G, draw the right lines E F, F G, G H, H E, by the Section E, F, G, H. E F G H ſhall be the ſquare demanded.</p>
+                     </div>
+                  </div>
+                  <div n="5" type="proposition">
+                     <pb n="44" facs="tcp:52434:24"/>
+                     <head>PROPOSITION V.</head>
+                     <p>About a Circle given to circumſcribe a Pentagone.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Let A B C D E be the Circle given, about the which one would deſcribe a Pentagone.</p>
+                        <p>Inſcribe the Pentagone A B C D E. from the center F. and by the midſt of each of the ſides draw the lines F O, F P, F Q, F R, F S. bring the line F A. draw the line Tan<g ref="char:EOLhyphen"/>gent P Q. by the point A. from the center F. and from the Interval F. P. deſcribe the circle O P Q R S. draw the ſides of the Pentagone, demanded by the Section O P Q R S.</p>
+                     </div>
+                  </div>
+                  <div n="6" type="proposition">
+                     <head>PROPOSITION VI.</head>
+                     <p>
+                        <hi>About a Poligone Regular to circumſcribe the ſame Poligone.</hi>
+                     </p>
+                     <p>Let B C D E F G be the Poligone given, about the which we muſt circumſcribe ano<g ref="char:EOLhyphen"/>ther Poligone like.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Prolong two ſides as B G E F. unto the point of the meeting H. draw the line A H. draw the line F I. dividing the Angle G F H. into two equally from the center A. and from the Interval A I. deſcribe the circle I M O. draw the Rays A L, A M, A N, A O; by the midſt of each ſides, draw the ſides of the out<g ref="char:EOLhyphen"/>ward Poligone demanded by the Sections I L M N O P.</p>
+                     </div>
+                  </div>
+                  <div n="7" type="proposition">
+                     <pb n="45" facs="tcp:52434:24"/>
+                     <head>PROPOSITION VII.</head>
+                     <p>
+                        <hi>About a Triangle Equilateral to Circumframe a Square.</hi>
+                     </p>
+                     <p>Let A B C be a Triangle Equilateral, about the which we muſt circumſcribe a Square.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Divide the Baſis B C. into two equally in E. prolong this Baſis B C. the one part and the other towards D and D. Make the Lines E D, E D. equal to the line E A. From the point E. and from the Interval E C. deſcribe the De<g ref="char:EOLhyphen"/>my-circle B F C. draw the line A E F. from the point F. draw the lines F C G, F B G. A G F G ſhall be the Square demanded.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Five <hi>of</hi> Spades.</trailer>
+               </div>
+               <div n="6♠" type="card">
+                  <head>
+                     <ref target="#A35751-6SPADES">
+                        <hi>See the</hi> Sixth <hi>of</hi> Spades.</ref>
+                  </head>
+                  <div n="8" type="proposition">
+                     <head>PROPOSITION VIII.</head>
+                     <p>
+                        <hi>About a Triangle given Equilateral to circumſcribe a Pentagone.</hi>
+                     </p>
+                     <p>Let A B C be the Triangle given, about the which we muſt deſcribe a pentagone.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the Point or Angle A B C. and with the ſame opening of the Compaſſes, deſcribe at diſcretion the Arch D E, L P. divide the Arch D O. into five equal parts, 1 2 3 4 5. From the center or ſection O. and from the Interval of 4 parts O N. deſcribe the Arch N M E. draw the right line A E F. divide the Arch M P. equal to the Arch E N. draw the right line F P C G. equal to the line F A.
+<pb n="46" facs="tcp:52434:25"/>make the arch D H. equal to the Arch D E. draw the ſides A I, I R. equal to the ſides A F, F G. the ſide G R ſhall finiſh the Pentagone demanded.</p>
+                     </div>
+                  </div>
+                  <div n="9" type="proposition">
+                     <head>PROPOSITION IX.</head>
+                     <p>
+                        <hi>About a Square to circumſcribe a Triangle of equal Angles to a Triangle given.</hi>
+                     </p>
+                     <p>Let D E F G be the Square, about the which we muſt circumſcribe a Triangle like to the Triangle A B C.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Make the Angle E F M. equal to the Angle A. make the Angle M E F. equal to the Angle B. prolong the lines M E, M F, D G, towards I and H. M I H ſhall be the Triangle required, like to the Triangle A B C. and circumſcribe about the ſquare given D E F G.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Six <hi>of</hi> Spades.</trailer>
+               </div>
+               <div n="7♠" type="card">
+                  <head>
+                     <ref target="#A35751-7SPADES">
+                        <hi>See the</hi> Seven <hi>of</hi> Spades.</ref>
+                  </head>
+                  <div n="10" type="proposition">
+                     <head>PROPOSITION X.</head>
+                     <p>
+                        <hi>About a Square to circumſcribe a Pentagone.</hi>
+                     </p>
+                     <p>Let A B C D be the Square, about the which we muſt circumſcribe a Pentagone.</p>
+                     <p>Prolong the ſide C B. towards N. divide the ſide A B. into two equally in R. Elevate the Perpendicular R V. from the points B, D, C. and from the ſame Interval B R. divide the Arches R N, S T, S T. divide the Arch R N. into five equal parts R H, G F E N. make the Angle R B V. from the opening of two parts R G. make the Angles S C T, S D T. from the
+<pb n="47" facs="tcp:52434:25"/>opening of one part R H. prolong the lines V B, C T in O. make the line O Q. equal to the line O V. draw the other ſides on the ſume manner, and you ſhall have the demanded.</p>
+                  </div>
+                  <div n="1" type="proposition">
+                     <head>PROPOSITION I.</head>
+                     <p>
+                        <hi>To find a line which may be a mean proportional between two others.</hi>
+                     </p>
+                     <p>LEt A and B be the lines, between the which we muſt find a third which may be pro<g ref="char:EOLhyphen"/>portional to them.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw a line Undeterminate G H. make C E. equal to the line A. make E D. equal to the line B. divide C D. into two equally in I. from the point I. and from the Interval I C. deſcribe the Demy-circle C F D. elevate the Perpendi<g ref="char:EOLhyphen"/>cular E F. This line E F. ſhall be the mean proportional between A and B. according as it is propounded.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Seven <hi>of</hi> Spades.</trailer>
+               </div>
+               <div n="8♠" type="card">
+                  <head>
+                     <ref target="#A35751-8SPADES">
+                        <hi>See the</hi> Eighth <hi>of</hi> Spades.</ref>
+                  </head>
+                  <div n="2" type="proposition">
+                     <head>PROPOSITION II.</head>
+                     <p>
+                        <hi>There being given the ſum of the Extreams, and the mean proportional to diſcern the Ends and Ex<g ref="char:EOLhyphen"/>treams.</hi>
+                     </p>
+                     <p>Let A B be the ſum of the Ends, that is to ſay, two Grandeurs or (Greatneſſes the one at the end of the other without diſtinction) whereof the line C is the mean proportional,
+<pb n="48" facs="tcp:52434:26"/>and by the means of which we muſt find the point where the Extreams or Ends do joyn themſelves.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Divide the ſum or the line A B. into two e<g ref="char:EOLhyphen"/>qually in G. from the point G. and from the Interval G A. deſcribe the Demy-circle A E B. Elevate the perpendicular B D. equal to the mean C. draw the line D E, parallel to the line A B. From the ſection E. draw the line E F. parallel to the line B D F ſhall be the point where the Extreams join themſelves, and ſo C or his equal E F. ſhall be the mean between the Extreams A F, and F B.</p>
+                     </div>
+                  </div>
+                  <div n="3" type="proposition">
+                     <head>PROPOSITION III.</head>
+                     <p>
+                        <hi>There being given the mean of three Proportionals, and the difference of the Extreams (or Ends) to find the Extreams.</hi>
+                     </p>
+                     <p>Let G H be the mean Proportional, and A B the difference of the Extreams, we muſt find the length of the Extreams.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Elevate the perpendicular B C. at the end of the difference A B. and equal to the mean G H. divide the difference A B. into two equally in D. prolong it towards E and F. from the point D. and from the interval D C. deſcribe the Demy-circle E C F. B E, B F ſhall be the Extreams demanded.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Eight <hi>of</hi> Spades.</trailer>
+               </div>
+               <div n="9♠" type="card">
+                  <head>
+                     <ref target="#A35751-9SPADES">
+                        <hi>See the</hi> Nine <hi>of</hi> Spades.</ref>
+                  </head>
+                  <div n="4" type="proposition">
+                     <pb n="49" facs="tcp:52434:26"/>
+                     <head>PROPOSITION IV.</head>
+                     <p>
+                        <hi>From a right line given, to cut off a part, which may be a mean proportional between the reſt, and another right line Propounded.</hi>
+                     </p>
+                     <p>Let A A be the line, from the which we muſt cut off a part, which may be the mean proportional between the part that ſhall re<g ref="char:EOLhyphen"/>main, and the line propoſed B B.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw the line Indeterminate C D. divide the lines D E, E C. equal to the lines A A and B B. deſcribe the Demy-circle C F D. elevate the perpendicular E F. divide the line C E. into two equally in B. from the point B. and from the interval B F. deſcribe the Arch F G. divide the part demanded A G. equal to the part E G. A H ſhall be the mean proportional between the reſt H I. and the other line pro<g ref="char:EOLhyphen"/>pounded B B.</p>
+                     </div>
+                  </div>
+                  <div n="5" type="proposition">
+                     <head>PROPOSITION V.</head>
+                     <p>
+                        <hi>There being given two right lines, to find a Third Proportional.</hi>
+                     </p>
+                     <p>A B, A C are the two right lines given, we muſt find a third, which may be proportional to them.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Make at diſcretion the Angle D N E. di<g ref="char:EOLhyphen"/>vide the part N H. equal to the line A B. di<g ref="char:EOLhyphen"/>vide
+<pb n="50" facs="tcp:52434:27"/>the part N O. equal to the line A C. di<g ref="char:EOLhyphen"/>vide alſo H D. equal to the line A C. bring the line H O. draw the line D E. parallel to the line H O. E O ſhall be third proportional demanded.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Nine <hi>of</hi> Spades.</trailer>
+               </div>
+               <div n="10♠" type="card">
+                  <head>
+                     <ref target="#A35751-10SPADES">
+                        <hi>See the</hi> Ten <hi>of</hi> Spades.</ref>
+                  </head>
+                  <div n="6" type="proposition">
+                     <head>PROPOSITION VI.</head>
+                     <p>
+                        <hi>To find a fourth Proportional.</hi>
+                     </p>
+                     <p>A, B, C, are the three lines propoſed, we muſt find a fourth which may be to the third, as the ſecond to the firſt.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Make at diſcretion the Angle G D H. di<g ref="char:EOLhyphen"/>vide the part D E. equal to the line A. di<g ref="char:EOLhyphen"/>vide the part D F, equal to the line B. divide the part E G. equal to the line C. bring the line E F. draw the line G H. parallel to the line E F. F H ſhall be fourth proportional de<g ref="char:EOLhyphen"/>manded.</p>
+                     </div>
+                  </div>
+                  <div n="7" type="proposition">
+                     <head>PROPOSITION VII.</head>
+                     <p>
+                        <hi>Between two right lines given to find two means proportional.</hi>
+                     </p>
+                     <p>Let I and H be the lines propounded, be<g ref="char:EOLhyphen"/>tween the which we muſt find two mean proportional.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Draw the line A B. equal to the line H. let down the Perpendiculars B C. equal to the
+<pb n="51" facs="tcp:52434:27"/>line I. bring the line A C. divide this line A C. into two equally in F. elevate the Perpen<g ref="char:EOLhyphen"/>diculars A O, C R. From the point or center F. deſcribe the Arch D E. in ſuch manner that the Cord D E. touch the Angle B. A D, C E ſhall be the means proportional between the lines given I and H.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Ten <hi>of</hi> Spades.</trailer>
+               </div>
+               <div n="K♠" type="card">
+                  <div n="8" type="proposition">
+                     <head>
+                        <ref target="#A35751-KSPADES">PROPOSITION VIII.</ref>
+                     </head>
+                     <p>To divide two right lines given, each into two parts, ſo that the four Segments may be propor<g ref="char:EOLhyphen"/>tional.</p>
+                     <p>
+                        <hi>A B, A C are the lines propounded to be.</hi>
+                     </p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Make the right Angle B O C. divide the line B O. equal to the line A B. divide the line O C. equal to the line A C. bring the ſubten<g ref="char:EOLhyphen"/>dent B C. deſcribe the Demy-circle B D O. from the ſection D. bring the line D E. pa<g ref="char:EOLhyphen"/>rallel to the line C O. the line D F. parallel to the line E O. A B ſhall be divided in E. O C ſhall be divided in F. So that B E ſhall be to E D as E D is to D F, and E D to D F as D F is to F C.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> King <hi>of</hi> Spades.</trailer>
+               </div>
+               <div n="Q♠" type="card">
+                  <head>
+                     <ref target="#A35751-QSPADES">
+                        <hi>See the</hi> Queen <hi>of</hi> Spades.</ref>
+                  </head>
+                  <div n="9" type="proposition">
+                     <pb n="52" facs="tcp:52434:28"/>
+                     <head>PROPOSITION IX.</head>
+                     <p>
+                        <hi>There being given the Exceſs of the Diagonal of a ſquare, about the ſide to find the greatneſs of the ſaid ſide.</hi>
+                     </p>
+                     <p>Let A B be the Exceſs of the Diagonal of a ſquare, above its ſide whereof we muſt find the greatneſs.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Elevate the perpendicular B C. equal to the Exceſs B A. draw the line A C. prolonged to<g ref="char:EOLhyphen"/>wards D. from the point C. and from the in<g ref="char:EOLhyphen"/>terval C B. deſcribe the Arch B D. A D ſhall be the ſide of the ſquare, whereof A B is the Exceſs of the Diagonal. A E, above the ſaid ſide A D.</p>
+                     </div>
+                  </div>
+                  <div n="10" type="proposition">
+                     <head>PROPOSITION X.</head>
+                     <p>
+                        <hi>To divide a right line Terminated within the mean and extream reaſon.</hi>
+                     </p>
+                     <p>Let A B be the line, which we muſt divide in ſuch manner, as the Rectangle compoſed of the whole line, and of one of the two parts, may be equal to the ſquare framed upon the other part.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>Elevate the perpendicular A D. prolong it towards D. make A C. equal to the half of A B. from the point C. and from the Interval C B. deſcribe the Arch B D. from the point A.
+<pb n="53" facs="tcp:52434:28"/>and from the interval A D. deſcribe the Arch E. The line A B. ſhall be divided in E. accor<g ref="char:EOLhyphen"/>ding to the propoſition; for if you make the Rectangle A H of the whole A B, and of the part B E, it ſhall be equall to the ſquare A F. framed upon the other part A E.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Queen <hi>of</hi> Spades.</trailer>
+               </div>
+               <div n="J♠" type="card">
+                  <div n="11" type="proposition">
+                     <head>
+                        <ref target="#A35751-JSPADES">PROPOSITION XI.</ref>
+                     </head>
+                     <p>
+                        <hi>To divide a right line terminated according to the reaſons given.</hi>
+                     </p>
+                     <p>Let A B be the line propounded, to be divided according to the Reaſons, C.D.E.F.</p>
+                     <div type="practice">
+                        <head>The Practice.</head>
+                        <p>From the point or end A. draw at diſcreti<g ref="char:EOLhyphen"/>on the line A G. make A H. equal to the line or reaſon C. make H I. equal to the line D. make I L. equal to the line E. make L M. e<g ref="char:EOLhyphen"/>qual to the line F. draw the line B M. bring the lines L N, I O, H P. parallels to the line B M. the line A B ſhall be divided in the points P O N, according as it is demanded.</p>
+                     </div>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Knave <hi>of</hi> Spades.</trailer>
+               </div>
+            </div>
+            <div type="treatise">
+               <pb n="54" facs="tcp:52434:29"/>
+               <head>
+                  <hi>Mechanick Powers:</hi> OR, A MANUSCRIPT OF Monſi. Des-Cartes.</head>
+               <div n="A♣" type="card">
+                  <head>
+                     <ref target="#A35751-ACLUBS">See the <hi>Ace</hi> of <hi>Clubs.</hi>
+                     </ref>
+                  </head>
+                  <div type="introduction">
+                     <head>
+                        <hi>The Explication.</hi> Of Engines, by help of which we may raiſe a very great Weight with ſmall Strength.</head>
+                     <p>THE invention of all theſe Engins de<g ref="char:EOLhyphen"/>pends upon one ſole Principle, which is, that the ſame Force that can lift up a Weight, for Example, of 100 <hi>l.</hi> to the height of one Foot, can lift up one of 200 <hi>l.</hi> to the height of half a Foot, or one of 400 <hi>l.</hi> to the
+<pb n="55" facs="tcp:52434:29"/>height of a fourth part of a Foot, and ſo of the reſt, be there never ſo much applied to it; and this Principle cannot be denied, if we con<g ref="char:EOLhyphen"/>ſider, that the Effect ought to be proportioned to the Action that is neceſſary for the Produ<g ref="char:EOLhyphen"/>ction of it: So that if it be neceſſary to em<g ref="char:EOLhyphen"/>ploy an Action, by which we may raiſe a Weight of 100 <hi>l.</hi> to the height of two foot, for to raiſe one ſuch to the height of one foot only; this ſame ought to weight 200 <hi>l.</hi> for it's the ſame thing to raiſe 100 <hi>l.</hi> to the height of one foot, and again, yet another 100 <hi>l.</hi> to the height of one foot, as to raiſe one of 200 <hi>l.</hi> to the height of one foot, and the ſame, alſo, as to raiſe 100 <hi>l.</hi> to the height of two feet.</p>
+                     <p>Now the Engines which ſerve to make this Application of a Force, which acteth at a great ſpace upon a Weight which it cauſeth to be raiſed by a leſſer, are the Pulley, the incli<g ref="char:EOLhyphen"/>ned Plane, the Wedge, the Capſten, or Wheel, the Screw, the Lever, and ſome o<g ref="char:EOLhyphen"/>thers; for if we will not apply or compare them one to another, we cannot well number more, and if we will apply them, we need not inſtance in ſo many.</p>
+                  </div>
+                  <div type="part">
+                     <head>The Pulley, Trochlea.</head>
+                     <p>Let A B C be a Chord put about the Pul<g ref="char:EOLhyphen"/>ley D, to which let the Weight E be faſtned;
+<pb n="56" facs="tcp:52434:30"/>and firſt, ſuppoſing that two Men ſuſtain or pull up equally each of them one of the ends of the ſaid Chord, it is manifeſt, that if the Weight weigheth 200 <hi>l.</hi> each of thoſe Men ſhall employ but the half thereof, that is to ſay, the force that is requiſite for ſuſtaining or raiſing of 100 <hi>l.</hi> for each of them ſhall bear but the half of it.</p>
+                     <p>Afterwards, let us ſuppoſe that A, one of the ends of this Chord, being made faſt to ſome Nail, the other C be again ſuſtained by a Man; and it is manifeſt, that this Man in C, needs not (no more than before) for the ſuſtaining the Weight E, more force than is requiſite for the ſuſtaining of 100 <hi>l.</hi> becauſe the Nail at A doth the ſame Office as the Man which we ſuppoſed there before; in fine, let us ſuppoſe that this Man in C do pull the Chord to make the Weight E to riſe, and it is manifeſt, that if he there employeth the force which is requiſite for the raiſing of 100 <hi>l.</hi> to the height of two foot, he ſhall raiſe this Weight E of 200 <hi>l.</hi> to the height of one foot; for the Chord A B C being doubled, as it is, it muſt be pulled two feet by the end C, to make the Weight E riſe as much, as if two men did draw it, the one by the end A, and the other by the end C, each of them the length of one foot only.</p>
+                     <p>There's always one thing that hinders the exactneſs of the Calculation, that is the pon<g ref="char:EOLhyphen"/>peroſity
+<pb n="57" facs="tcp:52434:30"/>of the Chord or Pulley, and the dif<g ref="char:EOLhyphen"/>ficulty that we meet with in making the Chord to ſlip, and in bearing it: But this is very ſmall in compariſon of that which raiſeth it, and cannot be eſtimated, ſave within a ſmall mat<g ref="char:EOLhyphen"/>ter.</p>
+                     <p>Moreover, its neceſſary to obſerve, that its nothing but the redoubling of the Chord, and not the Pulley, that cauſeth this force; for if we faſten yet another Pulley towards A, about which we paſs the Chord A B C H, there will be required no leſs force to draw H towards K, and ſo to lift up the Weight E, than there was before to draw C towards G. But if to theſe two Pulleys we add yet another towards D, to which we faſten the Weight, and in which we make the Chord to run or ſlip, juſt as we did in the firſt, then we ſhall need no more force to lift up this Weight of 200 <hi>l.</hi> than to lift up 50 <hi>l.</hi> without the Pulley; becauſe that in drawing four foot of Chord we lift it up but one foot, and ſo in multiplying of the Pulleys, one may raiſe the greateſt Weights with the leaſt Forces. Its requiſite alſo to ob<g ref="char:EOLhyphen"/>ſerve, that a little more Force is always neceſ<g ref="char:EOLhyphen"/>ſary for the raiſing of a Weight than for the ſuſtaining of it, which is the reaſon why I have ſpoken here diſtinctly of the one and the other.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="58" facs="tcp:52434:31"/>
+                     <head>The inclined Plane.</head>
+                     <p>If not having more Force than ſufficeth to raiſe 100 <hi>l.</hi> one would nevertheleſs raiſe this body F, that weigheth 200 <hi>l.</hi> to the height of the line B A, there needs no more but to draw or rowl it along the inclined Plane C A, which I ſuppoſe to be twice as long as the line A B; for by this means, for to make it arrive at the point A, we muſt there employ the Force that is neceſſary for the raiſing 100 <hi>l.</hi> twice as high; and the more inclined this Plane ſhall be made, ſo much the leſs Force ſhall there need to raiſe the Weight F. But yet there is to be rebated from this Calculati<g ref="char:EOLhyphen"/>on, the difficulty that there is in moving the body F, along the plane A C, if that plane were laid down upon the line B C, all the parts of which I ſuppoſe to be equidiſtant from the Center of the Earth.</p>
+                     <p>It is true, that this impediment being ſo much leſs as the Plane is more united, more hard, more even, and more polite, it cannot likewiſe be eſtimated but by gueſs, and it is not very conſiderable. Neither need we much to regard that the line B C being a part of a Circle that hath the ſame Center with the Earth, the plane A C ought to be (though but very little) curved, and to have the Fi<g ref="char:EOLhyphen"/>gure of part of a Spiral, deſcribed beteen two
+<pb n="59" facs="tcp:52434:31"/>Circles, which alſo have for their Center that of the Earth, for that it is not any way ſen<g ref="char:EOLhyphen"/>ſible.</p>
+                  </div>
+                  <div type="part">
+                     <head>The Wedge, Cuneus.</head>
+                     <p>The force of the Wedge A B C D is eaſily underſtood after that which hath been ſpoken above of the inclined Plane, for the force wherewith we ſtrike downwards, acts as if it were to make it move according to the line B D; and the Wood, or other thing and body that it cleaveth, openeth not, or the Weight that it raiſeth doth not riſe, ſave only accor<g ref="char:EOLhyphen"/>ding to the line A C; inſomuch that the force, wherewith one driveth or ſtriketh this Wedge, ought to have the ſame proportion to the reſi<g ref="char:EOLhyphen"/>ſtance of this Wood or Weight, that A Chath to A B. Or elſe again, to be exact, it would be convenient that B D were a part of a Circle, and A D and C D two portions of Spirals that had the ſame Center with the Earth, and that the Wedge were of a matter ſo perfectly hard and polite, and of ſo ſmall weight, as that a<g ref="char:EOLhyphen"/>ny little force would ſuffice to move it.</p>
+                  </div>
+                  <div type="part">
+                     <head>The Crane, or the Capſten, Axis in <hi>Peritrochio.</hi>
+                     </head>
+                     <p>We ſee alſo very eaſily, that the force where<g ref="char:EOLhyphen"/>with the Wheel A or Cogg B is turned, which make the Axis or cylinder C to move, about which a Chord is rowled, to which the weight
+<pb n="60" facs="tcp:52434:32"/>D, which we would raiſe is faſtned, ought to have the ſame proportion to the ſaid Weight, as the circumference of the Cylinder hath to the circumference of a Circle which that force deſcribeth, or that the Diameter of the one hath unto the Diameter of the other; for that the circumſerences have the ſame proportion, as the Diameters; in ſo much that the Cy<g ref="char:EOLhyphen"/>linder C, having no more but one foot in Di<g ref="char:EOLhyphen"/>ameter, if the Wheel A B be ſix feet in its Di<g ref="char:EOLhyphen"/>ameter, and the Weight D do weigh 600 <hi>l.</hi> it ſhall ſuffice that the force in B ſhall be capable to raiſe 100 <hi>l.</hi> and ſo of others. One may al<g ref="char:EOLhyphen"/>ſo inſtead of the Chord that rolleth about the Cylinder C. place there a ſmall Wheel with Teeth or Coggs, that may turn another greater, and by that means multiply the power of the force as much as one ſhall pleaſe, without ha<g ref="char:EOLhyphen"/>ving any thing to deduct of the ſame, ſave only the difficulty of moving the Machine, as in the others.</p>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Ace <hi>of</hi> Clubs.</trailer>
+               </div>
+               <div n="2♣" type="card">
+                  <head>
+                     <ref target="#A35751-2CLUBS">
+                        <hi>See the</hi> Deux <hi>of</hi> Clubs.</ref>
+                  </head>
+                  <div type="part">
+                     <head>The Screw, Cochlea.</head>
+                     <p>When once the force of the Capſten and of the inclined Plane is underſtood, that of the Screw is eaſie to be computed, for it is compoſed on<g ref="char:EOLhyphen"/>ly of a Plane much inclined, which windeth about a Cylinder; and if this Plane be in ſuch manner inclined, as that the Cylinder ought to make v. gr. ten turns to advance forwards
+<pb n="61" facs="tcp:52434:32"/>the length of a foot in the Screw, and that the bigneſs of the circumference of the Circle which the force that turneth it about doth deſcribe, be of ten feet, for as much as ten times ten are an Hundred; one Man alone ſhall be able to preſs as ſtrongly with this Inſtru<g ref="char:EOLhyphen"/>ment, or Screw, as one Hundred without it, provided always, that we rebate the force that is required to the turning of it.</p>
+                     <p>Now I ſpeak here of preſſing rather than of raiſing, or removing, in regard that it is about this moſt commonly that the Screw is employed; But when we would make uſe of it for the raiſing of Weights, inſtead of making it to advance into a Female Screw, we joyn or apply unto it a Wheel of many Coggs, ſo made, that if v. gr. this Wheel have thirty Coggs, whilſt the Screw makes one entire turn, it ſhall not cauſe the Wheel to make more than the <hi>30th.</hi> part of a turn, and if the Weight be faſtned to a Chord, that rowling about the Axis of this Wheel ſhall raiſe it but one foot in the time that the Wheel, makes one entire revolution, and that the greatneſs of the circumference of the Circle that is de<g ref="char:EOLhyphen"/>ſcribed by the force that turneth the Screw a<g ref="char:EOLhyphen"/>bout, be alſo of ten foot, by reaſon that ten times 30 makes 300; one ſingle Man ſhall be able to raiſe a Weight of that bigneſs with this Inſtrument, which is called the perpetual Screw, as would require 300 Men without it.</p>
+                     <pb n="62" facs="tcp:52434:33"/>
+                     <p>Provided as before, that we thence deduct the difficulty that we meet with in turning of it, which is not properly cauſed by the Ponde<g ref="char:EOLhyphen"/>roſity of the Weight, but by the force or matter of the Inſtrument, which difficulty is more ſenſible in it than in thoſe aforegoing, for as much as it hath greater force.</p>
+                  </div>
+                  <div type="part">
+                     <head>The Leaver, Vectis.</head>
+                     <p>I have deferred to ſpeak of the Leaver until the laſt, in regard that it is of all Engines for raiſing of Weights, the moſt difficult to be ex<g ref="char:EOLhyphen"/>plained.</p>
+                     <p>Let us ſuppoſe that C H is a Leaver, in ſuch manner ſupported at the point O, (by means of an Iron Pin that paſſes through it a<g ref="char:EOLhyphen"/>croſs, or otherwiſe) that it may turn about on this point O; its part C deſcribing the ſe<g ref="char:EOLhyphen"/>micircle A B C D E, and its part H the ſemi<g ref="char:EOLhyphen"/>circle F G H I K, and that the Weight which we would raiſe by help of it were in H, and the force in C, the line C O being ſuppoſed tri<g ref="char:EOLhyphen"/>ple of O H. Then let us conſider that in the time whilſt the force that moveth this Leaver, deſcribeth the whole ſemicircle A B C D E, and acteth according to the line A B C D E, although that the Weight deſcribeth likewiſe the ſemicircle F G H I K, yet it is not raiſed to the length of this curved line F G H I K, but only that of the line F O K, inſomuch that
+<pb n="63" facs="tcp:52434:33"/>the proportion that the Force which moveth this Weight ought to have to its Ponderoſity, ought not to be meaſured by that which is be<g ref="char:EOLhyphen"/>tween the two Diameters of theſe Circles, or be<g ref="char:EOLhyphen"/>tween their two circumferences, as it hath been faid above of the Wheel, but rather by that which is betwixt the circumference of the greater, and the Diameter of the leſſer. Furthermore let us conſider, that there is a neceſſity that this Force needeth not to be ſo great, at ſuch time as it is near to A, or near to E, for the turning of the Leaver, as then when it is near to B or to D; nor ſo great when it is near to B or to D, as then when it is near to C. of which the reaſon is, that the Weights do there mount leſs, as it is eaſie to underſtand; if ha<g ref="char:EOLhyphen"/>ving ſuppoſed that the line C O H is parallel to the Horizon, and that A O F cutteth it at right Angles, we take the point G equidi<g ref="char:EOLhyphen"/>ſtant from the point F and H, and the point B equidiſtant from A and C. and that having drawn G S perpendicular to F O, we obſerve that the line F S (which ſheweth how much the Weight mounteth in the time that the force operates along the line A B) is much leſſer than the line S O, which ſheweth how much it mounteth in the time that the force ope<g ref="char:EOLhyphen"/>rates along the line B C.</p>
+                     <p>And to meaſure exactly what his force ought to be in each point of the curved line A B C D E, it is requiſite to know that it operates
+<pb n="64" facs="tcp:52434:34"/>there juſt in the manner as if it drew the Weight along a plane circularly inclined, and that the inclination of each of the points of this circular plane were to be meaſured by that of the right line, that toucheth the circle in this point. As for Example, when the force is at the point B, for to find the proportion that it ought to have with the Ponderoſity of the Weight which is at that time at the point G, its neceſſary to draw the Tangent line G M, and to account that the ponderoſity of the Weight is to the force which is required to draw it along this plane, and conſequently to raiſe it, according to the circle F G H, as the line G M is to S M. Again, for as much as B O is triple of O G, the force in B needs to be to the Weight in G, but as the ⅓ of the line S M is to the whole line G M. In the ſelf ſame manner, when the force is at the point D, to know how much the Weight weigheth at I, its neceſſary to draw the Contingent line betwixt I and P, and the right line I N per<g ref="char:EOLhyphen"/>pendicular to the Horizon, and from the point P taken at diſcreſſion in the line I P, pro<g ref="char:EOLhyphen"/>vided that it be below the point I, you muſt draw P N parallel to the ſame Horizon, to the end you may have the proportion that is be<g ref="char:EOLhyphen"/>twixt the line I P and the ⅓ of I N, for that which is betwixt the ponderoſity of the Weight, and the force that ought to be at the point D for the moving of it, and ſo of o<g ref="char:EOLhyphen"/>thers:
+<pb n="65" facs="tcp:52434:34"/>Where, nevertheleſs you muſt except the point H, at which the contingent line be<g ref="char:EOLhyphen"/>ing perpendicular to the Horizon, the weight can be no other than triple the force which ought to be in C for the moving of it; in the points F and K, at which the contingent line being parallel to the Horizon it ſelf, the leaſt force that one can aſſign is ſufficient to move the Weight. Moreover, that you may be per<g ref="char:EOLhyphen"/>fectly exact, you muſt obſerve that the lines S M and P N ought to be parts of a circle that have for their center that of the Earth; and G M and I P part of Spirals drawn between two ſuch Circles, and laſtly, that the right lines S M and I N both tending towards the center of the Earth are not exactly parallels: And furthermore, that the point H where I ſuppoſe the contingent line to be perpendicular to the Horizon, ought to be ſome ſmall mat<g ref="char:EOLhyphen"/>ter nearer to the point F than to K, at the which F and K the contingent lines are paral<g ref="char:EOLhyphen"/>lels to the ſaid Horizon.</p>
+                     <p>This done, we may eaſily reſolve all the dif<g ref="char:EOLhyphen"/>ficulties of the Balance, and ſhew, that then when its moſt exact, and for inſtance, ſuppo<g ref="char:EOLhyphen"/>ſing its center at O by which it is ſuſtained, to be no more but an indiviſible point, like as I have ſuppoſed here for the Leaver, if the arms be declined one way or the other, that which ſhall be the lowermoſt ought evermore to be adjudged the heavier; ſo that the center of Gravity is not fixt and immovable in each ſe<g ref="char:EOLhyphen"/>veral
+<pb n="66" facs="tcp:52434:35"/>body, as the Ancients have ſuppoſed, which no Perſon that I know of hath hitherto obſerved.</p>
+                     <p>But theſe laſt conſiderations are of no mo<g ref="char:EOLhyphen"/>ment in Practice, and it would be good for thoſe who ſet themſelves to invent new Ma<g ref="char:EOLhyphen"/>chines, that they knew nothing more of this buſineſs, than this little which I have now writen thereof, for then they would not be in danger of deceiving themſelves in their com<g ref="char:EOLhyphen"/>putation, as they frequently do in ſuppoſing other Principles.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="letter">
+               <pb n="67" facs="tcp:52434:35"/>
+               <head>A LETTER OF Monſi. Des-Cartes To the Reverend Father <hi>Marin Merſenne.</hi>
+               </head>
+               <div n="2♣" type="card">
+                  <head>
+                     <ref target="#A35751-2CLUBS">
+                        <hi>See the</hi> Deux <hi>of</hi> Clubs.</ref>
+                  </head>
+                  <opener>
+                     <salute>Reverend Father,</salute>
+                  </opener>
+                  <p>I Did think to have deferred Writing to you yet 8 or 15 days, to the end I might not trouble you too often with my Letters, but I have received yours of the Firſt of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> which giveth me to underſtand that its an hard matter to admit the principle which I have ſuppoſed in my Examination of the Geoſtatick Queſtion, and in regard that if it be not true, all the reſt that I have inferred
+<pb n="68" facs="tcp:52434:36"/>from it would be yet leſs true; I would not only to day defer ſending you a more particu<g ref="char:EOLhyphen"/>lar Explication. Its requiſite above all things to conſider, that I did ſpeak of the Force that ſerveth to raiſe a Weight to ſome height, the which Force has overmore two Dimenſions, and not of that which ſerveth in each Point to ſuſtain it, which hath never more than one Dimenſion, inſomuch that theſe two Forces differ as much the one from the other, as a Superficies differs from a Line; for the ſame Force which a Nail ought to have for the ſuſſtaining of a Weight of 100 <hi>l.</hi> one moment of time, doth alſo ſuffice for to ſuſtain it the ſpace of a Year, provided that it do not di<g ref="char:EOLhyphen"/>miniſh, but the ſame Quantity of this Force which ſerveth to raiſe the Weight to the height of one foot, ſufficeth not <hi>(eadem nu<g ref="char:EOLhyphen"/>mero)</hi> to raiſe it two feet, and its not more manifeſt that 2 and 2 makes 4, than its mani<g ref="char:EOLhyphen"/>feſt that we are to employ double as much therein.</p>
+                  <p>Now, for as much as that this is nothing but the ſame thing that I have ſuppoſed for a Principle, I cannot gueſs on what the Scru<g ref="char:EOLhyphen"/>ple ſhould be grounded, that Men make of receiving it; but I ſhall in this place ſpeak of all ſuch as I ſuſpect, which for the moſt part ariſe only from this, that Men are beforehand overknowing in the <hi>Mechanicks;</hi> that is to ſay, that they are pre-occupied with Principles
+<pb n="69" facs="tcp:52434:36"/>that others prove touching theſe matters, which not being abſolutely true, they deceive the more, the more true they ſeem to be.</p>
+                  <p>The firſt thing wherewith a Man may be pre-occupied in this buſineſs, is, That they many times confound the conſideration of Spaces with that of Time, or of the Velo<g ref="char:EOLhyphen"/>city; ſo that, for Example, in the Leaver, or (which is the ſame) the Ballance A B C D, having ſuppoſed that the Arm A B is double to B C, and the Weight in C double to the Weight in A, and alſo that they are in an <hi>Equi<g ref="char:EOLhyphen"/>librium,</hi> inſtead of ſaying, that that which cauſ<g ref="char:EOLhyphen"/>eth this <hi>Equilibrium,</hi> is, that if the Weight C did ſuſtain, or was raiſed up by the Weight A, it did not paſs more than half ſo much ſpace as it; they ſay, that it did move ſlower by the half, which is a fault ſo much the more prejudicial, in that it is very difficult to be known; for it is not the difference of the Velocity that is the cauſe why theſe Weights are to be one double to the other, but the dif<g ref="char:EOLhyphen"/>ference of the Space, as appeareth by this; that to raiſe, for Example, the Weight F with with the hand to G, it is not neceſſary to employ a Force that is preciſely double to that which one ſhould have therein employ'd the firſt bout, to raiſe it twice as quickly, but its requiſite to employ therein either more or leſs than the double, according to the diffe<g ref="char:EOLhyphen"/>rent
+<pb n="70" facs="tcp:52434:37"/>proportion of this Velocity may have to the cauſes that reſiſt it.</p>
+                  <p>Inſtead of requiring a Force juſt double for the raiſing of it with the ſame Velocity twice as high unto H, I ſay, that it is juſt double in counting (as two and two make four) that one and one make two, for it is requiſite to employ a certain quantity of this Force to raiſe the Weight from F to G, and again al<g ref="char:EOLhyphen"/>ſo, as much more of the ſame Force to raiſe it from G to H.</p>
+                  <p>For if I had had a mind to have joyned the conſideration of the Velocity with that of the Space, it had been neceſſary to have aſ<g ref="char:EOLhyphen"/>ſigned three dimenſions to the Force, whereas I have aſſigned it no more but two, on pur<g ref="char:EOLhyphen"/>poſe to exclude it. And if I have teſtified that there is ſo little of worth in any part of this ſmall Tract of the Staticks, yet I deſire that Men ſhould know, that there is more in this alone, than in all the reſt: For its impoſſible to ſay any thing that is good and ſolid touch<g ref="char:EOLhyphen"/>ing Velocity, without having rightly explain<g ref="char:EOLhyphen"/>ed what we are to underſtand by Gravity, as alſo the whole Syſtem of the World. Now becauſe I would not undertake it, I have thought good to omit this conſideration, and in this manner to ſingle out theſe others that I could explain without it; for though there be no motion but hath ſome Velocity, never<g ref="char:EOLhyphen"/>theleſs
+<pb n="71" facs="tcp:52434:37"/>it is only the Augmentations and Di<g ref="char:EOLhyphen"/>minutions of this Velocity that are conſidera<g ref="char:EOLhyphen"/>ble. And now that ſpeaking of the motion of a Body, we ſuppoſe that it is made accor<g ref="char:EOLhyphen"/>ding to the Velocity which is moſt natural to it, which is the ſame as if we did not conſi<g ref="char:EOLhyphen"/>der it at all.</p>
+                  <p>The other reaſon that may have hindred Men from rightly underſtanding my Principle, is, that they have thought that they could demonſtrate without it ſome of thoſe things which I demonſtrate nor without it; As for Example, touching the Pulley A B C, they have thought that it was enough to know that the Nail in A did ſuſtain the half of the Weight B; to conclude that the hand in C had need but of half ſo much Force to ſuſtain or raiſe the Weight, thus wound about the Pulley, as it would need for to ſuſtain or raiſe it without it. But howbeit that this ex<g ref="char:EOLhyphen"/>plaineth very well, how the application of the Force at C is made unto a Weight dou<g ref="char:EOLhyphen"/>ble to that which it could raiſe without a Pulley, and that I my ſelf did make uſe there<g ref="char:EOLhyphen"/>of, yet I deny that this is ſimply, becauſe that the Nail A ſuſtaineth one part of the Weight B, that the Force in C, which ſuſtaineth it, might be leſs than if it had been ſo ſuſtained. For if that had been true, the Rope C E be<g ref="char:EOLhyphen"/>ing wound about the Pulley D, the Force in E might by the ſame reaſon be leſs than the
+<pb n="72" facs="tcp:52434:38"/>Force in C; for that the Nail A doth not ſu<g ref="char:EOLhyphen"/>ſtain the Weight leſs than it did before, and that there is alſo another Nail that ſuſtains it, to wit, that to which the Pulley D is faſtened.</p>
+                  <p>Thus therefore, that we may not be mi<g ref="char:EOLhyphen"/>ſtaken in this, that the Nail A ſuſtaineth the half of the Weight B, we ought to conclude no more but this, that by this application the one of the Dimenſions of the Forces that ought to be in C to raiſe up this Weight is diminiſhed the one half, and that the other of conſequence becometh double, in ſuch ſort that if the line F G repreſent the Force that is required for the ſuſtaining the Weight B in a point, without the help of any Machine, and the Quadrangle G H that which is re<g ref="char:EOLhyphen"/>quired for the raiſing of it to the height of a foot, the ſupport of the Nail A diminiſheth the Dimenſion which is repreſented by the line F G the one half, and the redoubling of the Rope A B C maketh the other Dimenſion to double, which is repreſented by the line F H, and ſo the Force that ought to be in C, for the raiſing of the Weight B to the height of one foot, is repreſented by the Parallelo<g ref="char:EOLhyphen"/>gram I K; And as we know in Geometry, that a line being added to, or taken from a ſuper<g ref="char:EOLhyphen"/>ficies, neither augmenteth, nor diminiſheth it in the leaſt, ſo the Force wherewith the Nail A ſuſtains the Weight B, having but one ſole Dimention, cannot cauſe that the Force in C,
+<pb n="73" facs="tcp:52434:38"/>conſidered according to its two Dimenſions, ought to be leſs for the raiſing in like manner the Weight E, than for the raiſing it without any Pulley.</p>
+                  <trailer>Here endeth the <hi>Deux</hi> of <hi>Clubs.</hi>
+                  </trailer>
+               </div>
+               <div n="3♣" type="card">
+                  <head>
+                     <ref target="#A35751-3CLUBS">See the <hi>Trois</hi> of <hi>Clubs.</hi>
+                     </ref>
+                  </head>
+                  <p>The third thing which may make men ima<g ref="char:EOLhyphen"/>gine ſome obſcurity in my Principle is, that they, it may be, have not had regard to all the words by which I explain it; for I do not ſay ſimply that the Force that can raiſe a Weight of 50 <hi>l.</hi> to the height of 4 feet can raiſe one of 200 <hi>l.</hi> to the height of one foot; But I ſay, that it may do it, if ſo be that it be applied to it: Now its impoſſible to apply the ſame, but by the means of ſome Machine, or other invention that ſhall cauſe this Weight to aſcend but one, in the time whilſt the Force paſſes the whole length of 4 feet, and ſo that it do transform the Quadrangle, by which the Force is repreſented, that is requi<g ref="char:EOLhyphen"/>red to raiſe this Weight of 400 <hi>l.</hi> to the height of one foot into another, that is equal and like to that which repreſents the Force that is re<g ref="char:EOLhyphen"/>quired for to raiſe a Weight of 50 <hi>l.</hi> to the height of 4 feet.</p>
+                  <p>In fine, it may be that Men may have thought the worſe of my Principle, becauſe they have imagined that I have alledged the Examples of the Pulley, of the inclined Plane, and of the Leaver, to the end that I might better perſwade the truth thereof, as if it had
+<pb n="74" facs="tcp:52434:39"/>been dubious, or elſe that I had ſo ill diſ<g ref="char:EOLhyphen"/>courſed as to offer to aſſume from thence a Principle, which ought of it ſelf to be ſo clear, as not to need any proof by things that are ſo difficult to comprehend as that; it may be, they have never been well demonſtrated by any Man, but neither have I made uſe of them, ſave only with a deſign to ſhew that this Prin<g ref="char:EOLhyphen"/>ciple extends it ſelf to all matters of which one treateth in the Staticks; or rather, I have made uſe of this occaſion for to inſert them into my Treatiſe, for that I conceived that it would have been too dry and barren if I had therein ſpoken of nothing elſe but of this Que<g ref="char:EOLhyphen"/>ſtion, that is of no uſe, as of that of the Geo<g ref="char:EOLhyphen"/>ſtaticks, which I purpoſed to Examine.</p>
+                  <p>Now one may perceive by what hath al<g ref="char:EOLhyphen"/>ready been ſaid, how the Forces of the Lea<g ref="char:EOLhyphen"/>ver and Pulley are demonſtrated by my prin<g ref="char:EOLhyphen"/>ciple ſo well, that there only remains the in<g ref="char:EOLhyphen"/>clined plane, of which you ſhall clearly ſee the demonſtration by this Figure, in which G F repreſents the firſt Dimenſion of the Force that the Rectangle F H deſcribeth, whilſt it draweth the Weight D along the plane B A, by the means of a Chord parallel to this plane, and paſſing about the Pulley E, in ſuch ſort that H G, that is the height of this Rectangle, is equal to B A, along which the Weight D is to move, whilſt it mounteth to the height of the line C A. And N O repreſents the firſt
+<pb n="75" facs="tcp:52434:39"/>Dimenſion of ſuch another Force, that is de<g ref="char:EOLhyphen"/>ſcribed by the Rectangle N P, in the time that it is raiſing the Weight L to M.</p>
+                  <p>And I ſuppoſe that L M=B A=2C A, and that N O-. F G⸬O P-G H. This done, I con<g ref="char:EOLhyphen"/>ſider that at ſuch time as the Weight D is moved from B towards A, one may imagine its motion to be compoſed of two others, of which the one carrieth it from B R towards C A, (to which operation there's no Force required, as all thoſe ſuppoſe who treat of the Mechanicks) and the other raiſeth it from B C towards R A, for which alone the Force is required, in ſo much that it needs neither more nor leſs Force to move it along the in<g ref="char:EOLhyphen"/>clined plane B A, than along the perpendicu<g ref="char:EOLhyphen"/>lar C A. For I ſuppoſe that the unevenneſs, <hi>&amp;c.</hi> of the Plane do not at all hinder it, like as it is always ſuppoſed in treating of this mat<g ref="char:EOLhyphen"/>ter:</p>
+                  <p>So then the whole Force F H is employed only about the raiſing of D to the height of C A, and for as much as it is exactly equal to the Force N P, that is required for the raiſing of L to the height of L M, double to C A, I conclude by my principle that the Weight D is double to the Weight L. For in regard that it is neceſſary to employ as much Force for the one as for the other, there is as much to be raiſed in the one as in the other, and no more knowledge is required than to count
+<pb n="76" facs="tcp:52434:40"/>unto two for the knowing that it is alike fa<g ref="char:EOLhyphen"/>cile to raiſe 200 <hi>l.</hi> from C to A, as to raiſe 100 <hi>l.</hi> from L to M, ſince that L M=2C A.</p>
+                  <p>You tell me moreover, that I ought more particularly to explain the nature of the Spiral Line that repreſenteth the plane equally en<g ref="char:EOLhyphen"/>clined, which hath many qualities that ren<g ref="char:EOLhyphen"/>der it ſufficiently knowable.</p>
+                  <p>For if A be the Center of the Earth, and A N B C D the Spiral Line, having drawn the Right Lines A B, A D, and the like, there's the ſame proportion betwixt the Curved Line A N B, and the Right Line A B, as is betwixt the Curved Line A N B C, and the Right Line A C; or betwixt A N B C D and A D; and ſo of the reſt.</p>
+                  <p>And if one draw the Tangents D E, C F, and B G, the Angles A D E, A C F, A B G, &amp;c. ſhall be equal. As for the reſt I will, <hi>&amp;c.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Reverend Father, Your very humble Servant,</hi> Des-Chartes.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="letter">
+               <div n="3♣" type="card">
+                  <pb n="77" facs="tcp:52434:40"/>
+                  <head>
+                     <ref target="#A35751-3CLUBS">A LETTER OF Monſi. de Robberal TO Monſi. de Fermates, COUNSELLOR OF <hi>THOULOUSE,</hi> CONTAINING Certain Propoſitions in the Mechanicks.</ref>
+                  </head>
+                  <opener>
+                     <salute>Monſieur,</salute>
+                  </opener>
+                  <p>I Have according to my promiſe, ſent you the Demonſtration of the fundamental propoſition of our Mechanicks, in which I follow the common method of explaining in
+<pb n="78" facs="tcp:52434:41"/>the firſt place, the Definitions and Principles of which we make uſe.</p>
+                  <p>
+                     <hi>We in general call that quality a Force or Pow<g ref="char:EOLhyphen"/>er, by means of which any thing whatever doth tend or aſpire into another place than that in which it is, be it downwards, upwards, or ſide-ways, whether this Quality naturally belongeth to the Bo<g ref="char:EOLhyphen"/>dy, or be communicated to it from without.</hi> From which definition it followeth, that all Weights are a Species of Force, in regard that it is a Quality, by means whereof Bodies do tend downwards. We often alſo aſſign the name of Force to that very thing to which the Force belongeth, as a ponderous Body is call<g ref="char:EOLhyphen"/>ed Weight; but with this pre-caution, that this is in reference to the true Force, the which augmenting or diminiſhing ſhall be called a greater or leſſer Force, albeit that the thing to which it belongeth do remain al<g ref="char:EOLhyphen"/>ways the ſame. If a Force be ſuſpended or faſtened to a flexible Line that is without Gra<g ref="char:EOLhyphen"/>vity, and that is faſtened at one end to ſome Fulciment or Stay, in ſuch ſort as that it ſu<g ref="char:EOLhyphen"/>ſtain the Force, drawing without impediment by this line, the Force and the line ſhall take ſome certain poſition in which they ſhall reſt, and the line ſhall of neceſſity be ſtraight, let the line be termed the <hi>Pendant,</hi> or <hi>line of Di<g ref="char:EOLhyphen"/>rection of the Force;</hi> and let the point by which its faſtned to the Fulciment be called the <hi>point of Suſpenſion;</hi> which may ſometimes be the
+<pb n="79" facs="tcp:52434:41"/>Arm of a Leaver or Ballance, and then let the line drawn from the Center of the Fulciment of the Leaver or Ballance to the point of ſuſ<g ref="char:EOLhyphen"/>penſion be named the <hi>Diſtance or the Arm of the Force,</hi> which we ſuppoſe to be a line fixed, and conſidered without Gravity.</p>
+                  <p>Moreover, let the Ang. comprehended be<g ref="char:EOLhyphen"/>twixt the Arm of the Force and the line of Direction be termed, <hi>the Ang. of the Direction</hi> of the Force.</p>
+                  <div type="axiom">
+                     <head>Axiom <hi>1.</hi>
+                     </head>
+                     <p>After theſe Definitions we lay down for a Principle, that in the Leaver, and in the Bal<g ref="char:EOLhyphen"/>lance, equal Forces drawing by Arms that are equal, and at equal Angles of Direction, to draw equally. And if in this Poſition they draw one againſt the other, they ſhall make an E<g ref="char:EOLhyphen"/>quilibrium; but if they draw together, or to<g ref="char:EOLhyphen"/>wards the ſame part, the Effect ſhall be dou<g ref="char:EOLhyphen"/>ble. If the Forces being equal, and the Angles of Direction alſo equal, the Arms be unequal, the Force that ſhall be ſuſpended at the greater Arm ſhall work the greater Effect.</p>
+                     <p>As in this Figure, the Center of the Ballance or Leaver being A, if the Arms A B and A C are equal, as alſo the Angles A B D, and A C E, the equal Forces D and E ſhall draw equally, and make an Equilibrium. So likewiſe the Arm A F being equal to A B, the Ang. A F G
+<pb n="80" facs="tcp:52434:42"/>to the Ang. A B D, and the Force G to D, theſe two Forces<note n="*" place="margin">In <hi>M. S.</hi> Coppy its <hi>C</hi> and <hi>D.</hi>
+                        </note> G and D ſhall draw equally, and in regard that they draw both one way, the Effect ſhall be double. In the ſame manner the Forces G and F ſhall make an Equilibri<g ref="char:EOLhyphen"/>um, as alſo I and L ſhall counterpoiſe, if (being equal.) the Arms A K and A H, and the s A H T and A K L be equal.</p>
+                     <p>The ſame ſhall befall in the Forces P and R, if all things be diſpoſed as before. And in this caſe we make no other diſtinction be<g ref="char:EOLhyphen"/>twixt Weights and other Forces ſave only this, that Weights all tend towards the Cen<g ref="char:EOLhyphen"/>ter of grave Bodies, and Forces may be under<g ref="char:EOLhyphen"/>ſtood to tend all towards all parts of the Uni<g ref="char:EOLhyphen"/>verſe, with ſo much greater or leſſer <hi>impetus</hi> than Weights; ſo that Weights and their parts do draw by Lines of Direction, which all con<g ref="char:EOLhyphen"/>cur in one and the ſame point, and Forces and their parts may be underſtood to draw in ſuch ſort, that all the Lines of Direction are parallel to each other.</p>
+                  </div>
+                  <div type="axiom">
+                     <head>Axiom <hi>2.</hi>
+                     </head>
+                     <p>In the ſecond place, we ſuppoſe that a Force and its Line of Direction abiding always in the ſame poſition, as alſo the Center of the Bal<g ref="char:EOLhyphen"/>lance or Leaver, be the Arm what it will, that is drawn from the Center of the Ballance to
+<pb n="81" facs="tcp:52434:42"/>the line of Direction, the Force drawing al<g ref="char:EOLhyphen"/>ways in the ſame faſhion, will always pro<g ref="char:EOLhyphen"/>duce the ſame effect.</p>
+                     <p>As in the ſecond Figure, the center of the Ballance being A, the Force B, and the line of Direction B F prolonged, as occaſion ſhall require, in which the Arms A G, A C and A F do determine; in this poſition let the line B F be faſtned to the Arm A F or A C, or to a<g ref="char:EOLhyphen"/>nother Arm drawn from the cen<g ref="char:EOLhyphen"/>ter A to the line of Direction<note n="*" place="margin">In the Ori<g ref="char:EOLhyphen"/>ginal it is writ by the miſtake of the Tranſcri<g ref="char:EOLhyphen"/>ber a la ligne dire<g ref="char:EOLhyphen"/>ction <hi>A F.</hi>
+                        </note> B F; we ſuppoſe that this Force B ſhall always work the ſame Effect upon the Ballance. And if drawing by the Arm A C it make an Equilibrium with the Force D drawing by the Arm A E, when ever it ſhall draw by the Arms A F or A G, it ſhall likewiſe make an Equilibrium with the Force D, drawing by the Arm A E. This Principle altho' it be not expreſly found in Authors, yet it is tacitly ſuppoſed by all thoſe that have writ on this Argmument, and ex<g ref="char:EOLhyphen"/>perience conſtantly confirmeth it.</p>
+                  </div>
+                  <div type="axiom">
+                     <head>Axiom <hi>3.</hi>
+                     </head>
+                     <p>If the Arms of a Ballance or Leaver are di<g ref="char:EOLhyphen"/>rectly placed the one to the other, and that being equal they ſuſtain equal Forces, of which the Angles of Direction are right Angles,
+<pb n="82" facs="tcp:52434:43"/>theſe Forces do always weigh equally upon the center of the Ballance, whether that they be neer <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the ſame center, or far diſtant, or both conjoined in the center it ſelf; as in this Figure the Ballance being E D, the center A, the equal Arms A D and A E, let us ſuſtain equal Forces H and I, of which the Angles of direction A D H and A E I are right Angles, we ſuppoſe that theſe two Forces I and H weigh alike upon the center A as if they were near<g ref="char:EOLhyphen"/>er to the center, at the equal diſtances A B and A C, and we alſo ſuppoſe the ſame if theſe very Forces were ſuſpended both together in A, the Angles of Directions being ſtill right Angles.</p>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Trois <hi>of</hi> Clubs.</trailer>
+               </div>
+               <div n="4♣" type="card">
+                  <head>
+                     <ref target="#A35751-4CLUBS">See the <hi>Four</hi> of <hi>Clubs.</hi>
+                     </ref>
+                  </head>
+                  <div type="proposition">
+                     <head>PROPOSITION I.</head>
+                     <p>THeſe Principles agreed upon, we will ea<g ref="char:EOLhyphen"/>ly demonſtrate in imitation of <hi>Archime<g ref="char:EOLhyphen"/>des,</hi> that upon a ſtraight Ballance the Forces of which and of all their parts the lines of di<g ref="char:EOLhyphen"/>rection are parallel to one another, and per<g ref="char:EOLhyphen"/>pendicular to the Ballance, ſhall counterpoiſe and make an Equilibrium, when the ſaid Forces ſhall be to one an other in reciprocal proportion of their Arms, which we think to be ſo manifeſt to you, that we thence ſhall derive the Demonſtration of this Univerſal Propoſition, to which we haſten.</p>
+                  </div>
+                  <div type="proposition">
+                     <pb n="83" facs="tcp:52434:43"/>
+                     <head>PROPOSITION II.</head>
+                     <p>IN every Ballance or Leaver, if the propor<g ref="char:EOLhyphen"/>tion of the Forces is reciprocal to that of the perpendicular lines drawn from the cen<g ref="char:EOLhyphen"/>ter or point of the Fulciment unto the lines of Direction of the Forces, drawing the one a<g ref="char:EOLhyphen"/>gainſt the other, they ſhall make an Equili<g ref="char:EOLhyphen"/>brium, and drawing on one and he ſame ſide, they ſhall have a like effect, that is to ſay, that they ſhall have as much Force the one as the other, to move the Ballance. In this Figure let the center of the Ballance be A, the Arm A B, bigger than A C, and firſt let the lines of Direction B D and E C be per<g ref="char:EOLhyphen"/>pendicular to the Arms A B and A C, by which lines the Forces D and E (which may be made of Weights if one will) do draw, and that there is the ſame rate of the Force D <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the Force E, as there is betwixt the Arm <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> C to the arm A B, the Forces drawing one <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ainſt the other, I ſay, that they will make <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Equilibrium upon the Ballance C A B. For <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the Arm C A be prolonged unto F, ſo as <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> at A F may be equal to A B, and let C A F <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> conſidered as a ſtraight Ballance, of which <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the center be A, and let there be ſuppoſed <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o Forces G and H, or which and of all their parts the lines of Direction are parallel <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the line C E, and that the Force G be e<g ref="char:EOLhyphen"/>qual
+<pb n="84" facs="tcp:52434:44"/>to the Force D, and H to E, the one, to wit, G, drawing up the Arm A F, and the other, to wit, H, upon the Arm A C; now, by the <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Propoſition, C and H ſhall make an Equilibrium upon the Ballance C A F, but by the firſt principle, the force D upon the Arm <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> the ſame effect as the force G <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Arm A F; Therefore the force D upon the Arm A B maketh an Equilibrium with the force H upon A C, and the force H drawing in the ſame manner upon the Arm A G, and the force H the ſame firſt Axiom, the force D upon the Arm A B ſhall make an Equilibrium with the force E upon the Arm A C.</p>
+                     <p>Now, in the following Figure, let the cen<g ref="char:EOLhyphen"/>ter of the Ballance be A, the arms A B and A C, the lines of Direction B D and C E, which are not perpendicular to the arms, and the Forces D and E drawing likewiſe by the lines of Direction, upon which perpendicu<g ref="char:EOLhyphen"/>lars are erected unto the center A, that is A F upon B D, and A G upon E C, and that as A F is to A G, ſo is the force E to the force D; which forces draw one againſt the other, I ſay, that they will make an Equili<g ref="char:EOLhyphen"/>brium upon the Ballance C A B; for let the lines A F and A G be underſtood to be the two arms of a Ballance G A F, upon which the forces D and E do draw by the lines of
+<pb facs="tcp:52434:44" rendition="simple:additions"/>Direction <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> forces ſhall make an E<gap reason="illegible" resp="#MURP" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t of this Propoſition <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> the force D upon <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> ſame effect as up<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#MURP" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>ore the force D upon <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> an Equi<g ref="char:EOLhyphen"/>librium with the <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> A C. There are many C<gap reason="illegible" resp="#MURP" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> ſeries of perpendiculars, but <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> eaſie ſo you to ſee that they have all but one and the ſame Demonſtration; it is all, eaſie to de<g ref="char:EOLhyphen"/>monſtrate, that if the forces draw both on one ſide they ſhall make the ſame effect one as another, and that the effect of two toge<g ref="char:EOLhyphen"/>ther ſhall be double to that of one alone.</p>
+                  </div>
+                  <trailer>
+                     <hi>Here endeth the</hi> Four <hi>of</hi> Clubs.</trailer>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="playing_cards_depicted">
+            <div xml:id="A35751-ACLUBS" n="A♣" type="card">
+               <pb facs="tcp:52434:45"/>
+               <p>
+                  <figure>
+                     <head>I ♣</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-2CLUBS" n="2♣" type="card">
+               <pb facs="tcp:52434:45"/>
+               <p>
+                  <figure>
+                     <head>II ♣</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-3CLUBS" n="3♣" type="card">
+               <pb facs="tcp:52434:46"/>
+               <p>
+                  <figure>
+                     <head>IIII ♣</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-4CLUBS" n="4♣" type="card">
+               <pb facs="tcp:52434:46"/>
+               <p>
+                  <figure>
+                     <head>III ♣</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-5CLUBS" n="5♣" type="card">
+               <pb facs="tcp:52434:47"/>
+               <p>
+                  <figure>
+                     <head>VI ♣</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-6CLUBS" n="6♣" type="card">
+               <pb facs="tcp:52434:47"/>
+               <p>
+                  <figure>
+                     <head>V ♣</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-7CLUBS" n="7♣" type="card">
+               <pb facs="tcp:52434:48"/>
+               <p>
+                  <figure>
+                     <head>VII ♣</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-8CLUBS" n="8♣" type="card">
+               <pb facs="tcp:52434:48"/>
+               <p>
+                  <figure>
+                     <head>VIII ♣</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-9CLUBS" n="9♣" type="card">
+               <pb facs="tcp:52434:49"/>
+               <p>
+                  <figure>
+                     <head>IX ♣</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-10CLUBS" n="10♣" type="card">
+               <pb facs="tcp:52434:49"/>
+               <p>
+                  <figure>
+                     <head>X ♣</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-JCLUBS" n="J♣" type="card">
+               <pb facs="tcp:52434:50"/>
+               <p>
+                  <figure>
+                     <head>Knave ♣</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-QCLUBS" n="Q♣" type="card">
+               <pb facs="tcp:52434:50"/>
+               <p>
+                  <figure>
+                     <head>Queen ♣</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-ASPADES" n="A♠" type="card">
+               <pb facs="tcp:52434:51"/>
+               <p>
+                  <figure>
+                     <head>I ♠</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-KCLUBS" n="K♣" type="card">
+               <pb facs="tcp:52434:51"/>
+               <p>
+                  <figure>
+                     <head>King ♣</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-2SPADES" n="2♠" type="card">
+               <pb facs="tcp:52434:52"/>
+               <p>
+                  <figure>
+                     <head>II ♠</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-3SPADES" n="3♠" type="card">
+               <pb facs="tcp:52434:52"/>
+               <p>
+                  <figure>
+                     <head>III ♠</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-4SPADES" n="4♠" type="card">
+               <pb facs="tcp:52434:53"/>
+               <p>
+                  <figure>
+                     <head>IIII ♠</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-5SPADES" n="5♠" type="card">
+               <pb facs="tcp:52434:53"/>
+               <p>
+                  <figure>
+                     <head>V ♠</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-6SPADES" n="6♠" type="card">
+               <pb facs="tcp:52434:54"/>
+               <p>
+                  <figure>
+                     <head>VI ♠</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-7SPADES" n="7♠" type="card">
+               <pb facs="tcp:52434:54"/>
+               <p>
+                  <figure>
+                     <head>VII ♠</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-8SPADES" n="8♠" type="card">
+               <pb facs="tcp:52434:55"/>
+               <p>
+                  <figure>
+                     <head>VIII ♠</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-9SPADES" n="9♠" type="card">
+               <pb facs="tcp:52434:55"/>
+               <p>
+                  <figure>
+                     <head>IX ♠</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-10SPADES" n="10♠" type="card">
+               <pb facs="tcp:52434:56"/>
+               <p>
+                  <figure>
+                     <head>X ♠</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-JSPADES" n="J♠" type="card">
+               <pb facs="tcp:52434:56"/>
+               <p>
+                  <figure>
+                     <head>Knave ♠</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-QSPADES" n="Q♠" type="card">
+               <pb facs="tcp:52434:57"/>
+               <p>
+                  <figure>
+                     <head>Queen ♠</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-KSPADES" n="K♠" type="card">
+               <pb facs="tcp:52434:57"/>
+               <p>
+                  <figure>
+                     <head>King ♠</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-AHEARTS" n="A♥" type="card">
+               <pb facs="tcp:52434:58"/>
+               <p>
+                  <figure>
+                     <head>I ♥</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-2HEARTS" n="2♥" type="card">
+               <pb facs="tcp:52434:58"/>
+               <p>
+                  <figure>
+                     <head>II ♥</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-3HEARTS" n="3♥" type="card">
+               <pb facs="tcp:52434:59"/>
+               <p>
+                  <figure>
+                     <head>III ♥</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-4HEARTS" n="4♥" type="card">
+               <pb facs="tcp:52434:59"/>
+               <p>
+                  <figure>
+                     <head>IIII ♥</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-5HEARTS" n="5♥" type="card">
+               <pb facs="tcp:52434:60"/>
+               <p>
+                  <figure>
+                     <head>V ♥</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-6HEARTS" n="6♥" type="card">
+               <pb facs="tcp:52434:60"/>
+               <p>
+                  <figure>
+                     <head>VI ♥</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-7HEARTS" n="7♥" type="card">
+               <pb facs="tcp:52434:61"/>
+               <p>
+                  <figure>
+                     <head>VII ♥</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-8HEARTS" n="8♥" type="card">
+               <pb facs="tcp:52434:61"/>
+               <p>
+                  <figure>
+                     <head>VIII ♥</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-9HEARTS" n="9♥" type="card">
+               <pb facs="tcp:52434:62"/>
+               <p>
+                  <figure>
+                     <head>IX ♥</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-10HEARTS" n="10♥" type="card">
+               <pb facs="tcp:52434:62"/>
+               <p>
+                  <figure>
+                     <head>X ♥</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-JHEARTS" n="J♥" type="card">
+               <pb facs="tcp:52434:63"/>
+               <p>
+                  <figure>
+                     <head>Knave ♥</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-QHEARTS" n="Q♥" type="card">
+               <pb facs="tcp:52434:63"/>
+               <p>
+                  <figure>
+                     <head>Queen ♥</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-KHEARTS" n="K♥" type="card">
+               <pb facs="tcp:52434:64"/>
+               <p>
+                  <figure>
+                     <head>King ♥</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-ADIAMONDS" n="A◆" type="card">
+               <pb facs="tcp:52434:64"/>
+               <p>
+                  <figure>
+                     <head>I ◆</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-2DIAMONDS" n="2◆" type="card">
+               <pb facs="tcp:52434:65"/>
+               <p>
+                  <figure>
+                     <head>II ◆</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-3DIAMONDS" n="3◆" type="card">
+               <pb facs="tcp:52434:65"/>
+               <p>
+                  <figure>
+                     <head>III ◆</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-4DIAMONDS" n="4◆" type="card">
+               <pb facs="tcp:52434:66"/>
+               <p>
+                  <figure>
+                     <head>IIII ◆</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-5DIAMONDS" n="5◆" type="card">
+               <pb facs="tcp:52434:66"/>
+               <p>
+                  <figure>
+                     <head>V ◆</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-6DIAMONDS" n="6◆" type="card">
+               <pb facs="tcp:52434:67"/>
+               <p>
+                  <figure>
+                     <head>VI ◆</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-7DIAMONDS" n="7◆" type="card">
+               <pb facs="tcp:52434:67"/>
+               <p>
+                  <figure>
+                     <head>VII ◆</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-8DIAMONDS" n="8◆" type="card">
+               <pb facs="tcp:52434:68"/>
+               <p>
+                  <figure>
+                     <head>VIII ◆</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-9DIAMONDS" n="9◆" type="card">
+               <pb facs="tcp:52434:68"/>
+               <p>
+                  <figure>
+                     <head>IX ◆</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-10DIAMONDS" n="10◆" type="card">
+               <pb facs="tcp:52434:69"/>
+               <p>
+                  <figure>
+                     <head>X ◆</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-JDIAMONDS" n="J◆" type="card">
+               <pb facs="tcp:52434:69"/>
+               <p>
+                  <figure>
+                     <head>Knave ◆</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-QDIAMONDS" n="Q◆" type="card">
+               <pb facs="tcp:52434:70"/>
+               <p>
+                  <figure>
+                     <head>Queen ◆</head>
+                  </figure>
+               </p>
+            </div>
+            <div xml:id="A35751-KDIAMONDS" n="K◆" type="card">
+               <pb facs="tcp:52434:70"/>
+               <p>
+                  <figure>
+                     <head>King ◆</head>
+                  </figure>
+               </p>
+            </div>
+         </div>
+         <div type="colophon">
+            <pb facs="tcp:52434:71"/>
+            <p>
+               <figure>
+                  <figDesc>geometrical diagrams</figDesc>
+                  <head>GEOMETRE and the MECHANICK POWERS</head>
+               </figure>
+            </p>
+            <p>
+               <hi>Repreſented in a Pack of</hi> Playing Cards. <hi>Made and Sold by</hi> J Moxon <hi>att the</hi> Attlas <hi>in Warwick Lane.</hi> LONDON</p>
+         </div>
+      </back>
+   </text>
+</TEI>
